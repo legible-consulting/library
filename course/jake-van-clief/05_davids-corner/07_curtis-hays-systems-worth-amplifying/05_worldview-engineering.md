@@ -42,7 +42,7 @@ The argument, in order:
 - A co-host's line that you are what your customer says you are — attributed quote, used as support.
 - A 1985 talk by Steve Jobs is cited as foreseeing worldview capture in a machine — historical reference; worth checking the wording before reusing.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **C1 shared core:** adopt the contrast between a posture and a belief layer when writing the voice and house-rules files. Concretely, check each core file for a defended quality definition, things never said, and a tradeoff order. Adapt by keeping rules short with a why and date, as the goals require.
 - **Boundary (one home per fact):** the belief layer is the one place those priorities live; modules should reference it through Inputs and not restate it.

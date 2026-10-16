@@ -54,7 +54,7 @@ Jake argues that most people automate the wrong thing: they build custom tooling
 - [13:02] Which industry sits at which layer.
 - [14:02] Closing question: which layer am I standing on?
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **S3 proposal and S4 quote:** the "sell the video game, give away the movie" framing is directly usable in positioning; adopt as the basis for what a proposal bundles (context-heavy discovery and judgment) versus what is treated as commodity, but treat the dollar figures as unverified and do not cite them to clients.
 - **O1 tool research:** the "will this become a platform feature in six months" test is a ready criterion for the dated adopt, watch or decline verdicts, and the recheck date; adopt as one required line per verdict.

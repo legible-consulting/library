@@ -40,7 +40,7 @@ Where to start: find your honest level; if you are in one long chat, build one p
 - Overnight agent runs can burn hundreds of dollars — stated as a general risk, no figures from a specific run.
 - Author says he is not at level five and has little need to be — useful caveat; the top level is described from second-hand knowledge.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **O4 training and coaching:** the ladder is a ready-made diagnostic for the first ten minutes of a workshop: which rung is the attendee on? Adopt it as a placement exercise, with a client leaving at rung four (a folder tree) as the target for "leave with their own factory".
 - **Boundaries:** level five conflicts with the goals' "gates are human" and "never build an orchestrator" rules. Curtis's router agent is realised in ICM as folders and stage contracts, not as a running agent, so adapt the rung-four idea (specialists as files, routing by structure) and reject the unattended rung except for the three sanctioned unattended sweeps.

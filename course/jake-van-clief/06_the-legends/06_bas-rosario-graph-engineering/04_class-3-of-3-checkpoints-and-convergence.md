@@ -27,7 +27,7 @@ The exercise: circle the two gate points on your graph, write five or fewer cros
 
 - Questions invented after the drafts arrive tend to defend the favourite draft — reasoned assertion, no data.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **Reinforces "gates are human" and rejects an automated merge.** Convergence is a decision, so a merge-agent or consolidating orchestrator is exactly what the "never build an orchestrator" boundary excludes. Where Jamie has fan-in (a proposal assembled from research, scope and quote in S3; the monthly close in C3 reading many client folders), the combining read is a human gate, with a cross-read list in the stage contract.
 - **S3 to S5 chain:** the proposal, quote and agreement must not contradict each other. A cross-read list (client, price, scope, language, dates) at the agreement gate would catch what a smoother would hide.

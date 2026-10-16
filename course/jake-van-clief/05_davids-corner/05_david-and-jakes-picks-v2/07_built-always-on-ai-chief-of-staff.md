@@ -12,7 +12,7 @@ Justin's assistant, called Emma, runs on a MacBook and connects to messages, cal
 - **Failure question:** what stops with the host, what is saved.
 - **Read-only first,** then drafts, then any write permission.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **C3 morning glance:** the source, host, script, draft, review path is a template for documenting how the glance is produced. The goals require it to run from anywhere, so a laptop host is the thing to reject; use a cloud or scheduled run.
 - Boundaries fit: a session may read email, calendar and Drive and create calendar events; it never sends to a client. Texting a client from an assistant is out.

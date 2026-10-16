@@ -12,7 +12,7 @@ Don introduces his corner of the classroom. He is a mechanical engineer who lear
 - **Constraint as context:** limited tokens and no coding experience shape his builds towards simple, low-cost approaches.
 - **Section map:** Back to Basics for questions, Resources for practice material, Sunday Coffee for weekly check-ins, Vlog for videos.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **Weak relevance to the system; useful for O4.** It is a good example of a beginner-facing community front door (an orientation page plus a "pick one thing you want to make" prompt) that Jamie could mirror in a client workspace welcome file.
 

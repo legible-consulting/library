@@ -13,7 +13,7 @@ A field note arguing that plain files are the right default for an ICM workspace
 - **Obsidian as viewer:** notes are local Markdown, but plugins and special syntax can reduce portability.
 - **Dashboard on demand:** only when navigation is a demonstrated pain.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - Confirms the boundary "never build an orchestrator": folders and contracts are the pipeline. Keep as a one-line why in the repo's rules.
 - Relevant to C3: the dashboard exists for salesmen and clients, not as the pipeline's engine; folders stay the record. Add a portability test for D4: a module opens cold in any editor.

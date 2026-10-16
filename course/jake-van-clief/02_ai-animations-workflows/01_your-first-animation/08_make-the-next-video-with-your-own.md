@@ -30,7 +30,7 @@ Handoff review checklist in prose: brief and script match the source; voice and 
 - [1:02] Save useful preferences as reusable instructions; update dependent stages if narration changes.
 - [1:40] Test on someone unfamiliar and share the result.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **O4 workshop kit:** this is the "now do it on your own material" exercise; adopt as the closing exercise of a one-day workshop, with the client leaving with their own workspace.
 - **O3:** a repeatable per-video folder that cites a case study (O2) as its source is a direct content line.

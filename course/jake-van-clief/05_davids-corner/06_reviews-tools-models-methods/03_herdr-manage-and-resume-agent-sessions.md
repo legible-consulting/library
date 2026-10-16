@@ -23,7 +23,7 @@ David's example uses Herdr to manage several coding-agent terminals: which is ru
 
 - Earlier tmux/SSH claim — page corrects it as incorrect.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **Every module runs from anywhere:** the three-way split clarifies what must be in the folder (saved work) rather than in a terminal. Reject a local-only runtime as a dependency; O1 can record Herdr as watch.
 - C3: unattended runs each leave lines for the next morning's glance, which is the "saved work" layer.

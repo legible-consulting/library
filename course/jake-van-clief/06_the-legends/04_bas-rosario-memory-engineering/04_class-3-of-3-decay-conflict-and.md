@@ -28,7 +28,7 @@ The final class addresses what happens when a kept fact stops being true, or two
 - A file three times larger is a diary again — rule of thumb, no evidence.
 - Stale lines go bad the week you stop opening the file — a prediction from the author.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **Adopt** correct-in-place with date and source as the update rule for every C2 client record, so a salesman, Jamie or the client sees one current line rather than a layered history.
 - **Adopt** the monthly review rhythm in the monthly close and quarterly estate audit that C3 already plans; add a "still true, since when, says who" pass over client records and shared core facts. D4 conformance could report files with undated lines.

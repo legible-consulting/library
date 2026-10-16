@@ -25,7 +25,7 @@ A short orientation to Module 1. Jake frames the module as building one small na
 - [0:40] Each step will show the request, the file it produces and the check made before moving on.
 - [1:03] Foundation links for anyone not yet comfortable opening a folder with an agent.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **O4 training:** the "see the request, the file, the check" teaching rhythm is a good template for how workshop material should be paced; adopt it for the workshop kit.
 - **O3 content:** this lesson is a signpost only; no pipeline content to lift. Weak relevance beyond framing.

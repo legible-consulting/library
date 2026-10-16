@@ -18,7 +18,7 @@ This is the front door to the Archive course: a short chooser page, not teaching
 - **Lesson map** — 1.2 abstraction history; 2.1–2.3 older recordings (Jan 2024 at 39:25, Dec 2023 at 24:44 and 27:54); 3.1 recognition and model behaviour; 3.2 ownership and portability; 3.3 deployment and energy; 3.4 orchestration — as listed on the page.
 - **Onward links** — Foundation 1.4 Pick Your Setup; AI Animations & Workflows 4.3 Pre-Build Planning and Prompt Sequencing; the "Where to Go Next" course map.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - Weak direct relevance: this is navigation only. Its one reusable idea is the routing pattern (a chooser by intent that sends newcomers to the practical path), which echoes the "CLAUDE.md is routing only" rule in the ICM, and could inform how an O4 workshop kit page points attendees at "read for why" versus "do the walk" material.
 

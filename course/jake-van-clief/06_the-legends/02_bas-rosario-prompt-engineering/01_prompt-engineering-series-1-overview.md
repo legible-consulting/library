@@ -30,7 +30,7 @@ Bas sets out the five-rung ladder that organises his whole classroom, then defen
 - "Prompt engineering is dead" is true only for people working higher up the ladder — argued by reasoning, no data — an opinion.
 - Most daily AI users never leave rung one — stated from observation — unverified anecdote.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **Adopt** the ladder as vocabulary when explaining the rebuild to workshop attendees (O4): prompt maps to module instructions, context to the shared core and module Inputs (C1), memory to client folder records (C2), loop and graph to the pipeline stages. Keep it as teaching language only.
 - **Reject** a global prompt formula for the modules, consistent with the repo-owns-its-pipeline stance: each module's contract should say what its artefact must contain, not inherit a universal template.

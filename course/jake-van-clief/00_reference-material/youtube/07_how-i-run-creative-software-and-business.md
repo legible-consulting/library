@@ -64,7 +64,7 @@ An animated essay arguing that creative, technical and business work collapse in
 - `jake-van-clief/01_the-foundation/05_history-and-concepts/06_video-as-code-my-ai-animation-stack.md` — repeats the animation pipeline and the human-keeps-the-creative-cuts point; this video adds the business model around it.
 - `jake-van-clief/01_the-foundation/03_automate-it-keep-your-judgment/03_keep-it-useful-hand-it-on.md` — repeats handing the folder to collaborators so they inherit context.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **C2 client folder, boundary every module starts cold:** adopt position addressing as the design rule; a client folder's path (and the module subfolder inside it) should tell a cold session which client and which stage it is in before it opens a file.
 - **C1 shared core, boundary one home per fact:** adopt the cascade explicitly: voice, terms and house rules declared once at the root, module contracts adding only what is specific, client folders adding only client facts.

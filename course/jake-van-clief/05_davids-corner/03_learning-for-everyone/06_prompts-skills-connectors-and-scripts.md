@@ -17,7 +17,7 @@ A map of seven reusable workflow parts (prompt, skill, connector, MCP, hook, scr
 
 The event example is a five-step pattern: supply approved facts, draft, optionally retrieve from a permitted source, validate with a script, human confirms before publishing.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - Adopt the vocabulary as an O4 workshop-kit explainer and for O1's concept library.
 - Fits the boundary list: a session may draft, but never send to a client or advance a gate. Hooks and scripts check; a human approves.

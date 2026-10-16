@@ -17,7 +17,7 @@ Muhammad's case links website research, extraction and outreach drafting with n8
 
 - Nine calls a week — in the post title, self-reported anecdote — not verified.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **S1 prospecting:** adapt for outreach drafts in the prospect's language: each draft cites one sourced detail from the target list; salesmen see sources next to the draft on the dashboard.
 - Boundary: drafts only; sending to anyone is never done by a session.

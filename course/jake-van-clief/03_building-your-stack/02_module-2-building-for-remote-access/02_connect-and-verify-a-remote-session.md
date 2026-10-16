@@ -27,7 +27,7 @@ A practical connection lesson: start from the intended project, choose one of th
 - **Claude Code on the web and the Claude app** — where named sessions appear.
 - **Codex Remote** — desktop and mobile apps on the same account and workspace.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **Boundary — every module starts cold and runs from anywhere:** the marker-file check is a cheap smoke test; adopt a "where am I" file at each module root that a remote or cold session can quote.
 - **D4:** include remote reachability in the estate report as a yes/no per live repo.

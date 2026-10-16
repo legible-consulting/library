@@ -68,7 +68,7 @@ Answering viewers who think ICM is just folders, Jake opens the workspace he run
 - `jake-van-clief/01_the-foundation/03_automate-it-keep-your-judgment/03_keep-it-useful-hand-it-on.md` — repeats the fresh-session test and one home per fact; extends with a real drift case from his own workspace.
 - `jake-van-clief/01_the-foundation/04_live-lessons/02_do-you-actually-need-ai-agents.md` — repeats the folder-plus-one-model case against many agents; extends with harness-spawned helpers each confined to a single folder.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **Boundary, one home per fact · C1 · D4:** his drift came from near-duplicate files (CLAUDE.md vs AGENTS.md, overview vs map). Adapt: AGENTS.md should point to CLAUDE.md rather than copy it, and D4's conformance report should flag maps and overviews that state the same fact differently.
 - **Stage contracts (all modules) · gates are human:** adopt Human check as a mandatory heading in every stage CONTEXT.md, placed where errors start and before output fans out (e.g. S2 research before S3 proposal copies it). The check is read by a person, never ticked by a session.

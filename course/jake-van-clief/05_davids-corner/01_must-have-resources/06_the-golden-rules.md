@@ -23,7 +23,7 @@ The page refers to a five-layer context hierarchy (identity at the top, run mate
 
 - Token savings from staged loading — asserted as task-dependent; the page itself says to measure — unverified.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - Adopt (already aligned): stage CONTEXT.md contracts with explicit Inputs, matching "every module starts cold" and "one home per fact". Use as a checklist for D4 conformance of module folders.
 - Adapt rule 5: the goals file makes gates human checkboxes that sessions never tick; stricter than the page's "review before continuing".

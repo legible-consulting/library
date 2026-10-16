@@ -26,7 +26,7 @@ Before choosing a framework, decide who will read the site, what they should lea
 
 After the first preview, update the brief with what changed and track unresolved decisions and revisions.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **S3 proposal / D1 onboarding:** the five steps map to discovery then stage mapping in the workspace-builder walk; adopt the "three questions, mark unanswered explicitly" rule for the client questionnaire.
 - **D2 SDLC:** the requirements document with acceptance checks is the artefact that sizes a ticket by tier; keep it as the declared input to build.

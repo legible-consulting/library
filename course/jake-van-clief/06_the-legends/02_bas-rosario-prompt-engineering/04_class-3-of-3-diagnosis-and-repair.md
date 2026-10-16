@@ -29,7 +29,7 @@ When a well-routed prompt still gives a wrong answer, Bas proposes inspecting th
 
 - Rewording rarely fixes structural or capability faults — shown by the three-run example — constructed illustration, not an experiment.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **Adopt** the three-layer check as the standard way to debug a misbehaving module: first the contract's shape, then the Inputs it was handed, then whether the task suits a model at all. It belongs in a short "if output is wrong" note in each module folder, not in C1.
 - **Adopt** "one change per run, log one line" for tuning module contracts, consistent with CI as the source of truth: record the change and its observed effect rather than relying on memory.

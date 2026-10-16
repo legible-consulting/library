@@ -43,7 +43,7 @@ Anything that should produce the same output from the same input belongs in a sc
 - [2:50] Map line and swap-ability.
 - [3:05] Scheduling; what stays with the AI; back-end tip.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **C3 desk and unattended runs:** adopt the determinism rule: the drift check, deadline sweep and research recheck should be plain scripts, with the model used only to phrase the morning-glance lines.
 - **Boundary, never build an orchestrator:** a single-purpose script with one input and one output, referenced from a contract, is fine; a script that sequences stages is not.

@@ -21,7 +21,7 @@ Bas describes what happens when the by-hand memory discipline is built into a ma
 - Ten thousand low-signal memories recall worse than the right few with honest weights — author's experience — unverified.
 - Figures about his system (counts, the April incident) — self-reported, not independently checked.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **Adopt** the production-versus-test separation as a lesson for C2: client folders and any dashboard writes should never be touched by experiments, and the rebuild's "never in git" boundary for credentials and identity documents sits alongside it.
 - **Adapt** the small-core-plus-reference pattern, which already matches the always-read status file plus drawer design; weights and consolidation passes are a tooling layer and should be **rejected** for now, in line with never building an orchestrator.

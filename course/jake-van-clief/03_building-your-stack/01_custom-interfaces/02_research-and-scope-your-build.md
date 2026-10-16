@@ -39,7 +39,7 @@ A short recording where Jake responds to a community member's wish for a front e
 - [3:05] Ask for a PRD markdown aimed at the coding agent.
 - [4:36] Drop it into the workspace and have the agent build from it.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **C3 desk:** adopt the research-before-build step for the dashboard with three roles, with licence and cost checks recorded in the PRD.
 - **O1 research:** the two-reference comparison with licence and decision fits the dated adopt, watch, decline verdict format.

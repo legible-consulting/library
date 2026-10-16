@@ -67,7 +67,7 @@ Jake argues that the useful mental model is not "learning AI" but treating the m
 - `jake-van-clief/04_the-archive/03_ownership-in-the-ai-age/04_computational-orchestration.md` — extends: the video promises a part two on turning templates into computational orchestration; the essay is the allocation discipline that follow-up names.
 - `jake-van-clief/01_the-foundation/05_history-and-concepts/04_the-ladder-that-explains-every-ai-failure.md` — partly repeats: both argue a new layer reprices rather than kills the one beneath; that video's ladder is books, films and games, not programming languages.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **C1 shared core and S3–S5:** adopt the fixed/variable split as the rule for client documents: the fixed frame (voice, design system, terms) lives once in the shared core, and the variables come only from the C2 client folder. One home per fact; the proposal, quote and agreement restate nothing.
 - **Workspace-builder walk (scaffolding):** adapt the four constants into a checklist for every stage `CONTEXT.md`: role, output schema, how the output is validated, and what happens on failure. For Jamie "retry" means hand back to a person or re-run the stage, not an automatic loop (gates are human); code-level validation runs in CI (CI is truth).

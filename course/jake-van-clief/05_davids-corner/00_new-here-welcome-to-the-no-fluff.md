@@ -18,7 +18,7 @@ A short orientation page for David's Corner, a reference shelf of practical post
 - **Foundation 1.3 "Folders and One Agent"** — the recommended worked learning path linked from here.
 - **David and Jake's Picks: Start Here** — entry to David's later collection.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - Weak direct relevance to a build goal. The one reusable pattern is the "pick one job" landing page: O4 course material could open each module with job-shaped entry points rather than a table of contents.
 - Adopt the attribution habit for O4 workshop-kit material that borrows community examples (one home per fact: credit lives next to the borrowed idea).

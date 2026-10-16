@@ -50,7 +50,7 @@ An older, optional live lecture that frames the whole Foundation course. Jake re
 - [19:02] Setup for the three-person voice-control demo.
 - [25:00] Vision: meeting keywords triggering workflows so transcripts become actions.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **O4 training and coaching:** the three-layer ladder (chat, skills, workspace) is a ready-made opening for the workshop kit and for a client ICM scaffold; adopt as a one-slide explainer, stored with the concept library under O1 so proposals and training share the wording.
 - **C1 shared core:** his voice-and-tone file referenced from the top instruction file is the same pattern as Jamie's voice and document design system, each fact in exactly one place; adopt, and keep it one file read by every module.

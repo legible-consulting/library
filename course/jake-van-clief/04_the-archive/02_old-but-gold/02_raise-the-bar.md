@@ -40,7 +40,7 @@ The review-assignment pattern from the page's exercise:
 - [16:31] Review assignment: three essays from one prompt, then grade and improve them.
 - [21:01] Expectation for graduate and PhD work will rise again.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **O4 training:** adopt the review-assignment pattern as a workshop exercise: attendees critique and improve model output against stated criteria rather than only generating it. Home: workshop kit exercises.
 - **Gates are human:** the idea that a human defines the review bar and judges quality supports the checkbox-gate model; the exercise's "name the criteria first" matches writing gate criteria in a stage CONTEXT.md.

@@ -32,7 +32,7 @@ Four questions: who is this for, what must they do next, where does the informat
 - [3:01] Weinberg and smallest-first rule.
 - [4:02] His own video-posting split.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **S2 client research / discovery step:** adopt the four questions as the opening block of the workspace-builder discovery step and of S2's prospect profile, so the proposal (S3) names the client's decision, not the tool.
 - **Boundary, one home per fact:** the sixty is the facts; that is why C1 and C2 come first in Wave 1 before any generation module.

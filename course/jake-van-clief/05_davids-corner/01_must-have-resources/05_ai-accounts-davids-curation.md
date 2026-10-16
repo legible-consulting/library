@@ -17,6 +17,6 @@ A reading list of fifteen X accounts from AI researchers, educators and practiti
 
 - Accounts include @karpathy, @simonw, @goodside, @AndrewYNg, @dair_ai (full set on the page). Snapshot dated 2026-09-26.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - Weak direct relevance. The only reusable idea is for O1: a research recheck could log which sources a verdict relied on, with dates, so a verdict is traceable to a primary source rather than a feed.

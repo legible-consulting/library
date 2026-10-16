@@ -49,7 +49,7 @@ The generalisation recipe: list the steps of any repeated job, make each a folde
 - [5:26] Stage 5: render, phone copy, human-picked title and thumbnail.
 - [5:49] How to build the same pattern for non-video work.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **O3 content / O4 training:** this is the reference shape for an animation pipeline stage set; adopt the five-stage order and per-stage contracts as the O3 video line, and as a demo in the O4 workshop kit because it shows ICM to non-engineers.
 - **Boundary — gates are human:** the check between each stage maps exactly to human-ticked gates; keep them as checkboxes the AI reads but never ticks.

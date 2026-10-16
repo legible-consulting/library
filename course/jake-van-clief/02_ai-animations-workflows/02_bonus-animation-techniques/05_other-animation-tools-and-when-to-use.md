@@ -24,7 +24,7 @@ Needs-to-tool mapping, in my words: motion control points to GSAP or anime.js; e
 - **Remotion** — React video authoring and rendering, with a community prompt showcase.
 - **dotLottie, Rive** — animated interface assets, Rive with interactive states.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **O1 research:** each tool is a candidate for a dated adopt/watch/decline verdict; the one-beat comparison is a ready-made trial protocol with a recheck date.
 - **O3:** Remotion is the one most likely to matter if videos must render in a cloud session ("runs from anywhere"); worth testing against the current browser-render route.

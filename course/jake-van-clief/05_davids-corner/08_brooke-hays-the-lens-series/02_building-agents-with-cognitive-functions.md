@@ -48,7 +48,7 @@ In a relaxed live conversation, Brooke explains cognitive functions to two adult
 - [37:53] Curtis explains mapping his specialist agents to function types and typing eighteen in an evening.
 - [53:26] Curtis shows his orchestrator and agent folder, with personality codes, and the values layer above them.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **Boundary (never build an orchestrator) and D2 SDLC:** Curtis's orchestrator that loads a specialist plus context maps in ICM to stage folders with contracts. The valid takeaway is the principle: define reasoning style per stage in its contract, without a runtime router. Adapt, do not adopt the personality-code layer.
 - **S2/S3 stages:** a two-pass pattern (first gather concrete facts, then propose and evaluate options) is a useful structure for the research and proposal contracts, expressed in plain language rather than function codes. Adopt the pattern, reject the typology.

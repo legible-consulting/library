@@ -30,7 +30,7 @@ Curtis Hays opens his guest series by explaining where his thinking comes from: 
 
 - The doctrine in the series came from community conversation and years of client work — anecdote from the author, no data offered.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **C1 shared core:** the "decision note" exercise is a cheap template for the identity/house-rules layer: each rule carries a problem, a beneficiary, an example and the judgment to preserve. That fits the goals' own boundary that a rule carries its own why and date. Adapt it as a short front-matter block for rule files in the shared core rather than a separate artefact.
 - **O4 training and coaching:** the one-page decision note is a good opening exercise in a workshop kit, before any folder structure is introduced. Adopt as an exercise, not as system architecture.

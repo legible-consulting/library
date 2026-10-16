@@ -23,7 +23,7 @@ Choose path, scope one view, draft the PRD, review and cut, then research in 1.2
 - **Product requirements document prompt** — the lesson's starting prompt for Claude Code or another assistant.
 - **Premium Vault, Foundation and history lessons** — linked context.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **C3 desk:** the "list status and open the matching file" view is a miniature of the desk's Friday review and dashboard; adopt the smallest-view-first scoping for C3 rather than a large dashboard build.
 - **Boundary — never build an orchestrator:** the check "does a folder or spreadsheet already solve it?" is a useful guard to keep before any dashboard code is written.

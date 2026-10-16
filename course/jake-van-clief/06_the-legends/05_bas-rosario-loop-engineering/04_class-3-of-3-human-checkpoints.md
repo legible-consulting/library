@@ -24,7 +24,7 @@ Exercise: write the checkpoint as four short lines covering what must never happ
 
 - Open-ended feedback restarts the treadmill, a written question ends it — reasoned argument, no data.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **Gates are human, directly confirmed.** This lesson is the strongest external justification for the boundary that Jamie ticks gates and that no session sends, merges, releases, signs or spends. Use its four-part checkpoint shape as the template for gate text in stage contracts.
 - **S3/S4/S5 and C2:** the irreversible steps are sending a proposal, quote or contract to a client. The handback should be the draft plus mechanical check results, with one yes/no question for Jamie.

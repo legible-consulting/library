@@ -52,7 +52,7 @@ A short case study in which Jake frames and cuts down a longer video by Van Neis
 - [9:03] First test, the false "dog" hit and what it taught.
 - [11:09] Wrap and pointer to the full video.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **O1 tool and concept research:** a clean example of "reduce, describe, search" for the concept library and for the "could build for a client" catalogue (archive search for media or legal clients); adopt as a short explainer with a verdict of watch, since it is a cut of someone else's project.
 - **O4 training and coaching:** useful as a non-technical coaching story; adapt the sample, label, index method into a workshop exercise on text documents rather than video, which avoids local-model setup.

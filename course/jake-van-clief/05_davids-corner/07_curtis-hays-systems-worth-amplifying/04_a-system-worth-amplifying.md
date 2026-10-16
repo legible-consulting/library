@@ -41,7 +41,7 @@ The argument, in order:
 - Memory kept in folders rather than a vector database keeps doctrine legible a year later — design preference, no comparison offered.
 - Producers are the worst auditors of their own output — stated principle, no evidence.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **C1 shared core:** this is the strongest relevance so far. Identity, voice and house rules sit in one place and, as the goals state, each rule carries its why and date. Adopt Curtis's test (what must be true before acting, and what do we refuse) as the prompt for writing house rules; adapt by phrasing each as a precondition rule with a why and date.
 - **S2/S3/S4 sell chain:** the handoff problem (promise broken at the proposal stage) maps to the proposal and quote contracts. Adapt: S3 declares in its Inputs the client's own words from S2, and carries a check that the offer restates nothing the client would not understand.

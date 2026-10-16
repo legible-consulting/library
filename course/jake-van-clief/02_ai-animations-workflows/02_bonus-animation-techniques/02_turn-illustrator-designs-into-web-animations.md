@@ -47,7 +47,7 @@ Jake shows a client-style job: a friend's hand-drawn Illustrator storyboard need
 - [9:19] Moving a chosen character into the React website.
 - [10:04] "File structures, not agents" and appless work.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **O3/O4:** a worked example for the animation line of how to take a client's design assets and make them AI-editable; adopt the naming convention step as a client-intake checklist in the workshop kit.
 - **D2 SDLC (site tier):** relevant to website builds that embed animation; the routing file plus component split fits the site template.

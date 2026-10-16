@@ -23,6 +23,6 @@ A third-party walkthrough of Decster, a service that layers a Chrome-extension c
 - [3:45] Personalised "how does this lesson apply to me" answers.
 - [4:18] Roadmap tasks: post, quiz, continue.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - Weak relevance. It shows an intake questionnaire feeding a personalised route, which loosely echoes the questionnaire step of the workspace-builder walk (discovery → stage mapping → scaffolding → questionnaire → validation). It is a hosted third-party tool; nothing here to adopt.

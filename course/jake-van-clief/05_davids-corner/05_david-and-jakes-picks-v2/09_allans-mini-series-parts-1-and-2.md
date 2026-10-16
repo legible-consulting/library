@@ -17,6 +17,6 @@ Allan's two-part case begins with repetitive portal corrections done by an assis
 
 - Large token and time savings — member-reported in part 2 — anecdote, specific to that portal.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - Weak relevance to the goals (no portal automation in scope). The read, propose, review, apply shape is reusable for D3 hosting records or any bulk change across the estate that D4 might one day fix: report first, human approves, then apply.

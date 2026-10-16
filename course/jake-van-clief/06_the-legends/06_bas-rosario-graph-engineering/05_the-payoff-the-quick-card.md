@@ -20,7 +20,7 @@ The payoff assembles the three classes (cut, contract, converge) into one writte
 
 - Graph designs written in plain English remain valid across model generations — author's assertion, unverified.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **Adapt as a review checklist for parallel work only,** and only after asking whether parallelism is needed at all (Bas's perspective post says it usually is not). It would sit in the O4 workshop kit as a worked example, not in the shared core.
 - **Boundary:** the paragraph is a graph run by a person in the chair; do not translate it into a runner script (never build an orchestrator).

@@ -20,7 +20,7 @@ Bas opens rung four of his ladder: everything before it was single-pass (ask, an
 - The ordering of rungs is strict and each is a dependency — argued from the earlier series, not demonstrated here — framing claim.
 - Bas cites his own memory system (762 memories, still human-validated one call at a time) as the confession that led into this rung — anecdote, self-reported.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **Adopt the framing, not a tool.** The "count your agains" exercise is a cheap way to find which workshop and coaching tasks (O4) are really loops with the human as evaluator. Use it as a discovery question in the workspace-builder walk (discovery → stage mapping).
 - **Gates are human:** the series ends by saying the human checkpoint is a design decision, which matches the boundary that Jamie ticks every gate. Nothing in the overview conflicts with that.

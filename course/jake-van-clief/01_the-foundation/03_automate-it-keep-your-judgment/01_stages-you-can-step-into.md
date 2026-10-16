@@ -43,7 +43,7 @@ Automation without losing control comes from splitting a job into stages that ea
 - [2:40] Where to put your eyes.
 - [3:02] Engelbart and the sentence-as-interface point.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **Boundary, gates are human:** adopt the stage contract with a named checker, and enforce stops by hook, not map text, for anything that sends, merges, spends or signs; checkboxes remain human-ticked.
 - **D2 SDLC:** adapt one-stage-one-file to ticket-to-release stages sized by tier, with the UAT sign-off as the judgment stop.

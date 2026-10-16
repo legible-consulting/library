@@ -50,7 +50,7 @@ Folder shape described: a script area (long and short form) and an animation stu
 - [15:16] What the spec contains and what it must not contain.
 - [18:18] Driving it from a phone.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **O3:** the spec-as-contract idea maps to the cue stage contract; adopt the rule of leaving implementation detail out of specs so the agent keeps latitude.
 - **Every module runs from anywhere:** the phone-driven session is a pointer to remote access; see the Building Your Stack remote access lessons.

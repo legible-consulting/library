@@ -41,7 +41,7 @@ Entry points: new to AI beyond questions starts at 1.1; Projects or saved prompt
 - [2:07] Where to start by experience level; account requirements.
 - [3:07] Side sections and handoff to 1.1.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **O4 workshop kit:** adopt the "three entry points by existing habit" structure as the opening page of the workshop kit, so attendees self-route rather than all starting at the beginning.
 - **Boundary, every module starts cold:** the dated-setup-details pattern (stable idea in the lesson, volatile steps on a dated page) suits C1 house rules; adapt it so any tool step in the kit carries a "checked on" date.

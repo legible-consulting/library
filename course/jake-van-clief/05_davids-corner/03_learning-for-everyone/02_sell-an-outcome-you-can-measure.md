@@ -14,7 +14,7 @@ The lesson argues that value should be stated as a measurable result before any 
 - **Verifiable measure:** pick a metric both sides can check; revenue and profit depend on outside factors.
 - **Tools are options:** the open-source stacks tried are not evidence of a pricing model.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **S3 proposal:** adapt the five-field brief as the proposal's problem/approach frame, giving a client "a document they understand without a second call".
 - **S4 quote:** the three-way split matches S4's economics record (hours, model cost, hosting, margin) and a fixed or retainer choice; keep the negotiation floor private.

@@ -57,7 +57,7 @@ Jake explains how he produces animated explainer videos in a fraction of the old
 - [10:00] Constraints enable creativity.
 - [11:01] Recap: the system, not magic.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **Workspace-builder walk (stage mapping):** the spec, build, review progression with a style guide and component registry is a concrete stage-contract example; adopt as the worked example in O4 material, noting that the human stages stay human.
 - **C1 shared core:** the style guide holds decisions made once; this is the same one-home-per-fact idea as Jamie's voice and document design system, and the registry parallels reusable document components for S3 and S4 PDFs. Adapt rather than adopt, since Jamie's output is branded documents, not video.

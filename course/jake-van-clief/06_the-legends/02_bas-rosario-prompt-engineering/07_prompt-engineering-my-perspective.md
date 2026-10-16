@@ -20,7 +20,7 @@ A personal essay that closes the first series. Bas explains why he opened his cl
 - Most bad output is the mirror, not the model — stated from the author's experience — the page itself qualifies this as incomplete.
 - A week on five real prompts is worth more than a year of collecting templates — opinion.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **Adopt** the five-real-prompts exercise as the discovery step of the workspace-builder walk for the rebuild: audit what Jamie actually asks the system before drafting contracts.
 - **Adapt** the "name the task" lesson for module routing tables: a module's routing entry should open with a one-line name of the job it handles.

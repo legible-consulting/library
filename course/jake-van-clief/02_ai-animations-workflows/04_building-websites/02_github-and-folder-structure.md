@@ -25,7 +25,7 @@ Inspect first without changing; propose one change; approve; make only that chan
 - **Git, GitHub, GitHub Desktop** — history, remote, optional diff viewer.
 - **GitHub Pages docs** — publishing source configuration.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **D4 estate conformance:** the folder map and the "carries only what it uses" check align; adopt the explicit-secrets-and-ignore item as part of the conformance report.
 - **Boundary — one home per fact:** brand voice and design tokens each live in one docs file referenced from the entry file; matches C1.

@@ -66,7 +66,7 @@ Jake explains classifiers through a mailroom clerk who routes every envelope to 
 - `jake-van-clief/01_the-foundation/05_history-and-concepts/04_the-ladder-that-explains-every-ai-failure.md` — partly contradicts: the ladder warns against investing in a capability a platform will soon absorb, and this video builds on a just-launched vendor API. The decision-file method survives that risk; the product dependency may not (inferred).
 - `jake-van-clief/06_the-legends/02_bas-rosario-prompt-engineering/03_class-2-of-3-routing-choosing-the.md` — extends (inferred): Bas's ordered type questions are a classification task done by hand; a decision file is one way to make that routing explicit and testable.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **Boundary, gates are human:** adapt the threshold rule. The auto-act band may only do reversible, non-gate work (labelling, filing, drafting a morning-glance line). It never advances a stage or ticks a gate, whatever the confidence.
 - **C3 desk (unattended sweeps):** adopt the three-way split. Deadlines inside seven days are dates, so code handles them. Calls such as whether a client folder is waiting on someone, or whether a note is stale, suit a classifier, and low-confidence answers go to the morning glance for Jamie.

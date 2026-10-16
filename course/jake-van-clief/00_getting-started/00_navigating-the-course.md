@@ -32,6 +32,6 @@ An orientation to the Clief Notes community: where posts, classroom, leaderboard
 - [2:01] Classroom mechanics: completion ticks, check-ins, comments.
 - [2:40] The member map as a closing tip.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - Weak relevance to the rebuild. The one transferable idea is O4 (workshop kit): an attendee-facing "how this classroom works" page that routes people by starting point, rather than expecting linear reading.

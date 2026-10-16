@@ -13,7 +13,7 @@ A checklist for using an assistant on emails, reports, proposals and team messag
 - **Sender owns commitments.**
 - **Permitted material only** goes into the tool.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **S3 and S5:** client-facing documents are in the client's language and internal notes in English; add the four passes as a human checklist before anything leaves, and keep the voice sample in C1.
 - Boundary: sessions draft into the folder; they never send to a client. Fits S1 outreach drafts too.

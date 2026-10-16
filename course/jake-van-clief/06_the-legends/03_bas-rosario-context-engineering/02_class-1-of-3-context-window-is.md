@@ -28,7 +28,7 @@ Three questions per line: does this output need it (related is not enough), is i
 
 - The over-stuffed window produces style-guide tone, borrowed shapes and invented decisions — constructed illustration, explicitly not a recorded comparison.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **Adopt** the three-question test as the rule for what a module's Inputs section may list; it enforces "stay within declared Inputs" and keeps modules cold-start friendly. Only the artefact it needs is read, not the whole client folder (C2).
 - **Adapt** the six headings as the audit of what a session actually receives when it opens a module: root CLAUDE.md as standing instructions, shared core files (C1) as material, the contract as the instruction.

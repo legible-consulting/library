@@ -12,7 +12,7 @@ Another Ari post, moving from an open-ended request to a brief built around an i
 - **Gaps first:** ask for missing information before drafting.
 - **Third-party check:** someone else can judge the result.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - Adopt as the shape of S3 proposal and D1 kickoff inputs: a result someone else can verify, matching the goal that a client can say yes without a second call.
 - Same pattern as the measurable-outcome note earlier in this module; one home for the brief template in C1, not copies in each module.

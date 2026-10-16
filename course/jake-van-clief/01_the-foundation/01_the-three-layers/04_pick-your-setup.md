@@ -40,7 +40,7 @@ The tiny test: give it a folder with one file, ask for a one-page summary saved 
 - [2:03] Pick by need.
 - [2:30] The tiny test.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **Boundary, every module runs from anywhere:** adopt the four-piece split as a checklist that no contract hard-codes a harness or interface; the map file name is the only harness-specific detail.
 - **O4 workshop kit:** adapt the pick-by-need list and the open-it-yourself test as the kit's setup-check exercise, with the date stamp convention for volatile steps.

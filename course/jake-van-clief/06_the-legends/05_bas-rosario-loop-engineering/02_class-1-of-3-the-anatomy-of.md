@@ -27,7 +27,7 @@ Converting "agains" into checks: turn each reason into something countable or lo
 
 - A loop can only reach the standard you wrote, so the ceiling is the author's, not the model's — worked example of a customer-update loop, vague vs fully specified — illustrative, no measured results.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **Adapt for the Audit step of a stage contract.** A stage's pass/fail checklist is the same object as a loop's evaluator. In the workspace-builder walk, the stage-mapping and questionnaire phases should ask for the checks that make a stage's output acceptable, and reject any check phrased as an adjective.
 - **D2 SDLC:** ticket-to-release is a refinement loop whose evaluator should be hard signals. CI is truth, so tests and build results are the evaluate step; the retry happens via push and reading CI, not a local run, per Jamie's no-local-checks rule.

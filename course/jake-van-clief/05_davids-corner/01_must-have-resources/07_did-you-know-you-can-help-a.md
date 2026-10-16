@@ -17,7 +17,7 @@ An announcement of the community's affiliate programme: members earn a recurring
 
 - Stated rate and per-tier monthly amounts — from the page; current figures not verified here and likely to change.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - Weak relevance to the build. If Jamie recommends the community in workshop material (O4), disclose the affiliate relationship and avoid placing a referral link in client-facing documents.
 - Nothing to adopt for S1, which concerns salesman commission on Jamie's own deals, a separate matter.

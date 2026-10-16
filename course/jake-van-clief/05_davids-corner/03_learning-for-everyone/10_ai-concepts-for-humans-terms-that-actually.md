@@ -14,7 +14,7 @@ Five terms explained for practical use: tokens, context window, temperature, hal
 - **Hallucination:** confident style is not evidence; open the source.
 - **RAG:** failures can come from missing sources, poor retrieval or misuse of a retrieved passage.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - Strong fit for O1's concept library and O4 course material: five short explainers to reuse across proposals and training, one home per fact.
 - "Supply state explicitly" supports every module starting cold, with stage Inputs naming the files it needs.

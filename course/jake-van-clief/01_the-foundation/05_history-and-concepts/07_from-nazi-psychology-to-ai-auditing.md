@@ -56,7 +56,7 @@ Jake dissects his research pipeline, the Ethics Engine, which administers person
 - [11:00] Pulling the series together: AI extends the stack.
 - [12:00] Future agentic loops shift the engineering challenge to infrastructure.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **Never build an orchestrator:** the clearest lesson here is where orchestration is legitimate (concurrency across providers) versus where Jamie's contracts do the routing; reject building one for stage flow, and adopt the "scheduled sessions, not a driver" line for the unattended runs in the goals file.
 - **D4 estate conformance and C3 desk:** the page's rule to keep model version, prompts, settings and scoring with any reported result is a good house rule for the conformance report and the quarterly estate audit; adopt as one line, with its own why and date.

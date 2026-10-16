@@ -28,7 +28,7 @@ Two ways to get a working animation workspace: download the prepared Premium Vau
 - [2:01] Create the separate project, then request the brief.
 - [3:01] First stopping point: folder opens, assistant can explain it, video agreed.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **Workspace-builder walk:** Route B is essentially discovery then stage mapping then scaffolding; compare its prompt shape (stages, per-stage input/output/tool/check) against the builder's questionnaire and adopt the "show the plan first" step.
 - **Boundary — every module starts cold:** the start file plus agent file approach is a good test; a fresh session should explain the workspace unaided.

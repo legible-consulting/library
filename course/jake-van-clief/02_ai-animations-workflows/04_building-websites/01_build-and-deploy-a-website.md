@@ -50,7 +50,7 @@ Jake rebuilds an existing motorcycle-stories newsletter site from scratch with C
 - [23:34] The ignore file and secrets.
 - [25:51] Broken CSS paths diagnosed and fixed.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **D2 SDLC (site tier):** adopt the order brief, then plan, then preview, then publish with a stop before publishing; it is a ready sketch of the lightest tier in the site, app, platform sizing.
 - **Boundary — CI is truth:** pushing is not proof of deployment; read the deployment result and the live URL, never a local preview. Note Jamie's no-local-checks rule: the first review step should happen on the deployed preview, not a local server.

@@ -17,7 +17,7 @@ Bas introduces himself as a member and moderator of the community who leads IT t
 
 The four-beat series structure (classes, payoff, card, perspective) is the only method here. It is worth noticing as a design pattern in its own right: a fixed shape that every series repeats.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **Adapt** the repeat-the-same-shape idea for O4 course material: every workshop module could share one skeleton (concept, practice, reference card, reflection), which also supports the one-home-per-fact rule because the skeleton lives once in the shared core (C1).
 - Otherwise the relevance is low; this is a welcome note and adds nothing to routing, memory or folder design.

@@ -18,6 +18,6 @@ A guide to using the community's own assistant (the Clief Notes Agent) to locate
 - A three-prompt free limit and paid prices appear in a retained image — page says unverified; do not rely on them.
 - Node.js requirement for Claude Code — page corrects it as outdated.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - Weak relevance. The pattern "ask for the nearest source plus one check, say so if missing" fits O1 and O4 research prompts, where retrieval should return a citation or an explicit gap.

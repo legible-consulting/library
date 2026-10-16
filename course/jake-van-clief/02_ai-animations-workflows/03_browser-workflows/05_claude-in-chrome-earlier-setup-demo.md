@@ -16,6 +16,6 @@ A short Anthropic product demo of Claude in Chrome, kept as a reference for the 
 
 - **Claude in Chrome extension** — use the same Chrome profile where it is installed; review the permissions guide; labels may differ from the recording.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - Weak relevance. One useful point: the demo's approval-before-send pattern mirrors the rule that nothing is sent to a client without a human; no new material for the goals.

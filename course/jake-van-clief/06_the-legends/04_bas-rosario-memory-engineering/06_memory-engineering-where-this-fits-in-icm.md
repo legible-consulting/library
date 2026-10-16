@@ -24,7 +24,7 @@ Bas maps the durable-versus-disposable split from class one onto two layers of t
 
 - ICM has no date or provenance marking for reference files — Bas says he searched both sources for the word and found none — author's search; worth rechecking against the current paper.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **Adopt** the Layer 3 versus Layer 4 distinction for the shared core and client folders: C1 files are the stable shelf read selectively; C2 records and module artefacts are the changing workbench.
 - **Adapt** by adding what ICM lacks: every fact line in C1 and C2 carries a since-when and a source, and the goals file's rule that every rule carries its own why and date should be extended to facts. D4 conformance can then flag undated lines.

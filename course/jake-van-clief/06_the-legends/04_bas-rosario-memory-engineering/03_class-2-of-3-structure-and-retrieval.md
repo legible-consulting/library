@@ -29,7 +29,7 @@ Homework: re-sort lines you retyped despite their being in the file (retrieval f
 - Models handle long flat lists by attending unevenly (top, bottom, little in the middle) — an analogy, not cited research — unverified as stated.
 - The reshaped file reduces misses — shown by a constructed example only.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **Adopt** the always-loaded plus drawer split as the layout of each client folder (C2): a short status file that is read at the start of every session, with named-account detail, history and per-module artefacts in their own files, referenced by a pointer line in the module routing table.
 - **Adopt** "one fact, one place" as already stated in the goals file for C1, and apply it to C2: a client's current contact or send day lives once; other files point to it.

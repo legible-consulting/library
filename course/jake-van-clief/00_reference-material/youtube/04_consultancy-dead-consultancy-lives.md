@@ -64,7 +64,7 @@ A whiteboard session asking whether AI kills consulting firms. Jake argues the c
 - `jake-van-clief/04_the-archive/03_ownership-in-the-ai-age/04_computational-orchestration.md` — repeats judgment as the hard, valuable part; the calculator test is a client-facing version of the same idea.
 - `jake-van-clief/04_the-archive/02_old-but-gold/03_more-human.md` — repeats the idea that AI strips out the robotic parts of work; the HR section restates it as a business case.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **C1 services and pricing, S3, S4:** adopt the three products as the shape of every offer: advisory and build as fixed-price lines priced on outcome, not hours; warranty as an explicit line. Define them once in C1 (one home per fact) and have S3 and S4 read them.
 - **D3 handover and support:** the support and hosting record (what Jamie is on the hook for) is the warranty product; adapt it into a priced retainer so accountability is sold, not given away.

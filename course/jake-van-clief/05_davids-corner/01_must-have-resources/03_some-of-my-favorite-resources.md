@@ -17,7 +17,7 @@ David's saved list of roughly seventeen creators and newsletters covering AI ana
 
 - Creator list including Nate B. Jones, Andrej Karpathy, Alex Hormozi, Matthew Berman, The Rundown AI and others — see the lesson for the full set. Undated beyond the page's own snapshot.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - Adopt the note format for O1: each tool or claim picked up from a creator becomes a dated entry with a limitation and a recheck date, ending in adopt, watch or decline.
 - Reject importing the creator list itself; it is not tied to any goal.

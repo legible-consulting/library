@@ -29,7 +29,7 @@ Bas moves from the instruction (rung one) to everything the model can see when i
 
 - Context differences explain most day-to-day inconsistency — illustrated by a constructed example — not measured; the page itself lists other causes.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **Adopt** the missing-context audit as the cold-start test for every module: open the module folder with no memory and list what a fresh session lacks. This operationalises the boundary that every module starts cold from its own folder.
 - **Adapt** the seven-part list as a checklist for what a module contract plus shared core must cover; the objective, good and bad examples and environment belong in the module, while voice, terms and house rules live once in C1.

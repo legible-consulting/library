@@ -16,7 +16,7 @@ Ari's method puts four phases before any build: brainstorm, plan, a hand-off doc
 
 Four sequential phases: brainstorm, plan, hand-off document, dispatch. Detail is in the original post, not the page.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **D2 SDLC:** the hand-off document resembles a ticket-to-build stage contract; adapt as the planning stage's output, with the acceptance check as the UAT criterion the client signs.
 - Boundary: dispatch must remain a human act; a session does not advance a stage on its own.

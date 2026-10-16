@@ -37,7 +37,7 @@ Rule of thumb when comparing speech models: use one identical passage and choose
 - [2:03] Walk through the action, owner and due day, then listen to the whole take.
 - [3:05] Preview of next lesson: find where words land.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **O3 content:** voice stage contract for the video line: input is an approved script, output is one chosen take plus a selection note; keep the "script approved before audio spend" check as a human gate.
 - **Boundary — never spend money without a gate:** speech synthesis costs money; require the AI to state cost first, consistent with spending being a human decision.

@@ -23,7 +23,7 @@ Save, then recover cold, then reconcile. The module check is that you can reach 
 - **tmux** — keeps a terminal alive through client disconnection.
 - **Claude reconnect and resume guidance, Codex Remote guidance** — product-specific behaviour.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **Boundary — every module starts cold:** the fresh-session recovery test is a ready-made acceptance test for each module's folder; adopt it in module validation (the last step of the workspace-builder walk).
 - **Boundary — one home per fact:** progress state belongs in one file per module, not in chat; decision fields mirror "a rule carries its own why and date".

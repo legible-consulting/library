@@ -27,7 +27,7 @@ The first step of the browser module is proving the assistant can read the right
 - [1:02] Chrome extension route and the read-only prompt.
 - [2:03] Troubleshooting, chat alternative, move to 3.2.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **D2 SDLC (UAT):** the read-only page check is a cheap smoke test pattern for a client UAT environment; adapt as a first step before any browser-driven verification.
 - **Boundaries — gates are human; no submitting for the client:** the "do not edit, submit, download or navigate elsewhere" framing matches the never-send rule; adopt it as the default for browser sessions.

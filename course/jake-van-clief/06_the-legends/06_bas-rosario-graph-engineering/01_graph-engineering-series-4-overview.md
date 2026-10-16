@@ -22,7 +22,7 @@ The three classes preview the method: decomposition (cutting so pieces genuinely
 - This is the top rung and nothing above it is needed — framing assertion from the author.
 - Bas says his own perspective post runs longest because this rung is "home ground" — self-description.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **Mixed relevance and a boundary flag.** The goals say "never build an orchestrator". Bas's "orchestration" here means a human designing topology and contracts, which is compatible; it becomes a conflict only if it turns into a script or standing agent that drives branches and merges outputs. Treat the series as design vocabulary for Jamie, not as architecture to build.
 - **Jamie's week as a graph:** the C3 desk (morning glance, Friday review) is the one place where parallel streams (clients, modules) land. The "draw your week and mark what each piece waits on" exercise is a good O4 workshop item and could feed the C3 Friday review design.

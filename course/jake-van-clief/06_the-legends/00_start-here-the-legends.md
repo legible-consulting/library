@@ -26,7 +26,7 @@ A signpost page for the classroom that gathers two contributor corners: Bas Rosa
 - **Foundation lessons 1.1, 1.3, 1.4, 3.3 and the concept guide** — the on-ramp and the abstractions underneath — notes live under `01_the-foundation/`.
 - **Don Roy corner** — practical build content; notes under `07_don-roy-master-builder/`.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **Adapt** the page's structure as a model for O4 (training and coaching): a workshop kit or client workspace could open with a similar one-page routing map that sends each attendee to a single starting job rather than a syllabus.
 - This is a pure index, so there is nothing to adopt for C1 or C2 directly; use it only to find the lessons that matter (the "where this fits in ICM" notes in each Bas series).

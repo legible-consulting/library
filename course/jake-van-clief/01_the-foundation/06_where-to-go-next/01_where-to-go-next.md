@@ -29,7 +29,7 @@ The closing signpost for the Foundation course. It assumes the learner has seen 
 
 - No factual claims; promotional elements (Premium and VIP packages) are described by their stated purpose only, without evidence of outcomes.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **O4 training and coaching:** the Vault titles Discovery to Scoped Workflow and Meeting to Usable Package line up with S2 and S3 pain points and with the workspace-builder walk (discovery, stage mapping); check the actual contents before deciding to adopt, adapt or rebuild rather than assuming fit.
 - **C2 client folder:** the "hand over a copy and work in one shared place" lesson title is worth reading when designing what a client keeps after D3 handover; treat as a lead, not a source.

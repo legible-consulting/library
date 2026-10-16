@@ -34,7 +34,7 @@ With a chosen voice take, the AI transcribes it into a readable transcript plus 
 - [1:00] Ask for a storyboard where each phrase has a visual job.
 - [2:00] Check pictures against the voice; compile and verify cue times.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **D2 / O3 stage contracts:** treat transcript, timed words and cues as three declared artefacts, each with a named human check; downstream stages list only these as Inputs.
 - **Boundary — never build an orchestrator:** the cue compile step is a deterministic helper command, fine as a tool; do not extend it into something that advances stages itself.

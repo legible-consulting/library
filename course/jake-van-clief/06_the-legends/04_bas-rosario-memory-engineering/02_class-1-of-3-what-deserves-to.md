@@ -24,7 +24,7 @@ Put each candidate through a four-step filter and drop it at the first failure: 
 - Most memory fails by keeping too much rather than too little — argued via a constructed week; no data.
 - The author predicts two of the three learner items survive — a stated guess.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **Adopt** the four-question filter as the admission rule for what goes into a client folder record (C2): a client's confirmed preferred name, language and terms qualify; call-by-call narration does not. Each line should carry its date and source, which matches the goals file's "a rule carries its own why and date."
 - **Adopt** the durable versus disposable split for module outputs: only artefacts a downstream module declares as an Input are durable handoffs; drafts and rejected versions stay out of the folder record.

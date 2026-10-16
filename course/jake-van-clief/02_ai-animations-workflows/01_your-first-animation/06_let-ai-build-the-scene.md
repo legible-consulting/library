@@ -32,7 +32,7 @@ The AI writes the animated scene from the reviewed brief, voice, timings and cue
 - [1:02] Learn which file controls layout and which controls timing.
 - [2:02] Try smaller sizes and later restyle without changing content.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **O3:** the scene stage contract should list the exact inputs (brief, chosen voice, checked cues) and make "preview approved by a human" the exit gate.
 - **O4:** the "know which file to ask about" idea is a strong teaching point for non-developer clients leaving with their own workspace.

@@ -50,7 +50,7 @@ Jake uses the party game Mad Libs (a template with typed blanks filled by someon
 - [11:01] Pivot to what prompting actually is.
 - [13:00] Wrong word as joke, bug or hallucination.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **Every module starts cold / CI is truth:** the stored-versus-active distinction supports the rule that a module's folder must be sufficient on its own and that a session must name the files it read; adopt as a check line in each stage contract.
 - **C1 shared core, one home per fact:** the page's point that an entry file is guidance, not authority, helps decide what lives in the identity and house-rules files versus per-module contracts; adopt.

@@ -16,7 +16,7 @@ Two prompt patterns to test, plus an attached prompt collection. The first is a 
 
 - **Zero Fluff Prompts** (and a Markdown version) — attachments; not reviewed here.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - Adapt for stage contracts: the context brief mirrors a stage's Inputs plus completion check, so brief fields could seed a template for S2 client research and S3 proposal drafts.
 - The "established versus inferred" split suits S2: an industry primer should mark which claims are sourced.

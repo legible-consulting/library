@@ -35,7 +35,7 @@ The essay's argument, restated:
 - Language models "fooled humans" — links an arXiv study (2503.23674) — page's reading guide notes it covers five-minute text conversations only.
 - The Descartes quotation appears with a misspelled attribution in the page text — copying error, check the original translation.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **O1 concept library:** adopt "abstraction stacks, never replaces" as a reusable explainer for proposals and workshops; it justifies why an ICM folder layer sits on top of plain files rather than replacing them. Home: concept library entry, written in Jamie's own words.
 - **O4 training:** adapt the guide's exercise (pick one tool, name the layer beneath it, name the human judgment) as a warm-up in the workshop kit.

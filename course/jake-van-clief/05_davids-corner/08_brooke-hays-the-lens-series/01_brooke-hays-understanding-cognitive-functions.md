@@ -38,7 +38,7 @@ Brooke Hays introduces cognitive functions as a way to describe how people take 
 - Four letters can mislead more than a function stack — author's view; the framework itself is a contested theory in personality psychology, so treat claims about it as descriptive models, not findings.
 - The page's own notes concede that views differ on whether people can use functions outside their stack.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **Weak relevance to the core rebuild.** The goals concern folders, contracts and deliverables; a personality typology does not belong in the shared core (C1) or any module's contract.
 - **O4 training and coaching:** the observation prompts (what do you notice first, how do you decide) could seed a discovery question in the workspace-builder walk, but only as optional prompts. Adapt cautiously; do not make a client's "type" an Input.

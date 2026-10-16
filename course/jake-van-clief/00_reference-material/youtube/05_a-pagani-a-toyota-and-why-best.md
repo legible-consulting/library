@@ -66,7 +66,7 @@ Jake interviews Katie Bakewell, a mathematician and data scientist at NLP Logix,
 - `jake-van-clief/01_the-foundation/05_history-and-concepts/07_from-nazi-psychology-to-ai-auditing.md` — extends: same psychometrics research, here paired with LangTest as a practical bias-testing layer.
 - `jake-van-clief/05_davids-corner/03_learning-for-everyone/08_stop-automating-your-frustration-audit-it-first.md` — repeats in spirit: impact and risk scoring before automating maps onto the ROI gate and agent-risk triage.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **S2 client research:** adopt the screening sequence as a section of the prospect profile: named problem, which of revenue/cost/risk it moves, and problem type. A lead that cannot answer the ROI line gets flagged before S3. Lives in S2's contract.
 - **S3 proposal:** adapt the triage and best-is-relative framing into the approach section, so the client sees why a script, a model or an agent was chosen; written in the client's language.

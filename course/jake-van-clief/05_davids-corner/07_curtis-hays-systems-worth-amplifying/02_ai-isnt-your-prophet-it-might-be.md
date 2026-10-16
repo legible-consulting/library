@@ -37,7 +37,7 @@ The argument, in order:
 - AI amplifies wrong definitions, for example a mistaken MQL definition leads to scoring the wrong leads faster — reasoned example, not tested.
 - The ordering of the six layers is presented as a doctrine; no evidence that this exact order is required.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **C1 shared core:** "one place for each fact" is the engineering equivalent of Curtis's coherence argument. A website, deck and proposal that diverge is the Chaos Tax in miniature. Adopt this as the pitch for why voice and services live once in the core.
 - **S2 client research and S3 proposal:** the mirror versus window idea is a usable check on proposals. Adapt it as a review line in the proposal stage contract: does the opening describe the client's situation in their terms before it describes Jamie's offer?

@@ -50,7 +50,7 @@ The companion calls this "Layer 0 thinking", an early seed of the folder archite
 - [21:01] The three problems: fear, tool deficiency, community void.
 - [31:33] THINK process starts with dictating ideas and organising them.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **O4 training:** adopt "define the outcome before the tool" as the opening move of the workshop kit, and the "thinking before tooling" approach for sceptical attendees. Home: workshop kit facilitator guide.
 - **Workspace-builder walk (discovery):** the reading-guide exercise (outcome, what good looks like, one part a human must review) maps cleanly onto the discovery questions.

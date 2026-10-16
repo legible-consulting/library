@@ -17,7 +17,7 @@ Don Roy's essay separates low-effort AI output from useful work. He argues slop 
 
 - The skill gap is widening and the window will close — opinion — no evidence given.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - Supports O3 content and S3 proposal quality: every client-facing artefact gets a human review gate and a claim check, with Jamie's name on it.
 - Fits the boundary that gates are human; reject auto-publishing of posts drawn from research verdicts.

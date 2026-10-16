@@ -17,7 +17,7 @@ A community skill that scores a workflow before anyone chooses to automate it. I
 
 - **Workflow Audit skill** — downloadable attachment, plus a premium package elsewhere in the classroom. Not inspected here.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **S1 prospecting and C3 desk:** use the audit to decide which steps may run unattended. Today's unattended list is only the drift check, deadline sweep and research recheck; anything customer-facing is hybrid at best.
 - Directly echoes "gates are human checkboxes": reject any gate where the agent can tick its own approval.

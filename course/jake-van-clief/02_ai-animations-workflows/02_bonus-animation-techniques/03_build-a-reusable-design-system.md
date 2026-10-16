@@ -47,7 +47,7 @@ Jake explores Claude Design, Anthropic's design product, as a machine that reads
 - [31:57] Local models and Codex as swaps.
 - [37:19] Argument for fundamentals over single-vendor dependence.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **C1 shared core:** the design system compiled from assets is exactly the voice and document design system section; keep brand rules, voice and approved assets in one place with a router, and generate client documents from it. Adopt.
 - **Boundary — never build an orchestrator:** a design system as folders and skills is consistent; reject any app-style dependency.

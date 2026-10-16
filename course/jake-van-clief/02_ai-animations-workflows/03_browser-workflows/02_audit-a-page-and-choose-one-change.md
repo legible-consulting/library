@@ -22,7 +22,7 @@ Audit, then propose, then list what must stay and how to check the result, then 
 
 - **Workflow Audit Package (Premium)** — supporting material; the exercise works without it.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **D4 estate conformance:** the "inventory before change, unknown stays unknown" discipline fits an audit of what a repo contains before conforming it; adapt for the report format.
 - **Boundary — one home per fact:** the before-record is the single evidence copy for a change.

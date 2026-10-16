@@ -30,7 +30,7 @@ Bas argues that style adjectives such as "professional" or "concise" fail becaus
 
 - Examples beat adjectives and a bad example does the most work — demonstrated through a constructed three-version illustration — Bas frames it as something to try and test, not a proven result.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **Adopt** a one-home-per-fact treatment for examples: voice samples and rejected samples for client-facing documents belong once in the shared core (C1), under the voice and document design area, and each module references them rather than copying.
 - **Adopt** the "not like this" habit for S3 Proposal and S1 outreach drafts, where the client-language requirement makes generic brochure tone the likeliest failure; keep each language's good and rejected pair separate.

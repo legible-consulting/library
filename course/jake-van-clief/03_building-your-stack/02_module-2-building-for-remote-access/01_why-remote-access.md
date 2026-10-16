@@ -25,7 +25,7 @@ Decide if it solves a problem, connect, run a read-only check, review the result
 - **Codex Remote** — OpenAI remote connections guide.
 - Dates and rollout availability are not stated; check current docs.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **Boundary — every module runs from anywhere:** this is the core mechanism, but note the caveat that the host must be up. Goals tension 1 (projects gitignored on disk) means a remote session to Jamie's machine is not the same as a cloud session reaching repos through remotes; adapt by preferring cloud sessions for modules and keeping this for steering.
 - **C3 desk:** the phone leg of "morning glance on phone, dashboard, Google and terminal" can use a check, decide, capture pattern; see 2.3.

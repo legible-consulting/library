@@ -45,7 +45,7 @@ Layer two turns repeated corrections into a skill: a written process the AI can 
 - [4:05] Team anecdote; projects introduced.
 - [5:05] Skill versus project; instructions box; segue to folders.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **C1 shared core:** adopt the skill/project split as the test for "one home per fact": voice and house rules live once as method, client facts live in C2 client folders.
 - **Boundary, one home per fact:** the Dubai-style "map your workflows" exercise suits the discovery step of the workspace-builder walk.

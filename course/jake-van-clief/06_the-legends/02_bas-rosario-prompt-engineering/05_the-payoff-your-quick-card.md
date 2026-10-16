@@ -26,7 +26,7 @@ The card is a one-page reference built around five verbs: name it, route it, sha
 
 - A good prompt does not give repeatable results across time or people — reasoning from the limits of a single instruction — plausible, not tested.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **Adapt** the card format for O4: a one-page card per module that a client can keep, summarising the module's questions and checks without reproducing the full contract. The card would live beside the workshop kit, not in C1.
 - The "this is only rung one" point supports the rebuild's premise that prompts must live in contracts (see the where-this-fits-in-ICM note in this folder) so repeatability comes from files, not from whoever is steering.

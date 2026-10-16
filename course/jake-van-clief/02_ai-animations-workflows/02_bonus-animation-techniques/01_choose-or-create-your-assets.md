@@ -17,7 +17,7 @@ A short text lesson on where visual assets come from: draw them in code, make yo
 
 - **Lucide** — open SVG icon set with a JavaScript package — https://lucide.dev/guide/lucide.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **C1 shared core:** the document and visual design system should record an approved icon source plus its licence note once; adopt the "known source" requirement for any asset used in client or workshop material.
 - **O4:** licence checks matter before a workshop kit is redistributed to attendees.

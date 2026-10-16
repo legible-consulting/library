@@ -17,7 +17,7 @@ A starter glossary David built after community threads became hard to follow. It
 
 - **Primary papers** linked for RAG, LoRA, QLoRA, DPO and ReAct on arXiv, for checking definitions at source.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - Adopt as source material for O1's concept library (reusable explainers) and O4 course material: a one-line, caveated definition per term beats re-explaining in each proposal. Keep it as a separate reference, one home per fact.
 - Reject copying the list wholesale into C1; it is generic and carries no business facts.

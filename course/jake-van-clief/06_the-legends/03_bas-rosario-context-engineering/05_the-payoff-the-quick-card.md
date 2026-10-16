@@ -22,7 +22,7 @@ The card has five parts: the seven-line inventory (with a note that the last lin
 
 - The Tuesday-versus-Thursday gap was caused by surrounding material — illustrated via the series example — not measured; the page itself says causes can be several.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **Adopt** the "room as a file" idea as the definition of a module's folder: CONTEXT.md plus references together are the room, and the module starts cold from them (cold-start modules).
 - **Adopt** the static-file warning for C2: corrections made in a session only count once written back into the client folder record, otherwise the next cold start loses them. That bridges to the memory series in `04_bas-rosario-memory-engineering/`.

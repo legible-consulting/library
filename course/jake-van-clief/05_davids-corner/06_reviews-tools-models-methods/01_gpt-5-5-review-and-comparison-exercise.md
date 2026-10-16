@@ -22,7 +22,7 @@ A dated review of GPT-5.5 (April 2026 release) rewritten around a reusable quest
 
 - Benchmark and availability figures — retained images — dated, check vendor pages.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **O1:** this is the method behind a dated verdict (adopt, watch or decline, recheck date) for models and tools; adopt it nearly as written, and store the run record with the verdict.
 - **S4:** a model's cost per run feeds the engagement economics, so compare cost for the whole run, not tokens alone.

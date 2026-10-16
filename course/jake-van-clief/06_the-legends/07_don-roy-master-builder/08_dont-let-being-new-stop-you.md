@@ -23,7 +23,7 @@ His "your turn" sequence: copy the brief into a project; argue until the deliver
 - Following the sequence lands within about 90% of his result — anecdote, no measurement.
 - The result "could ship to a customer" after a few weeks — self-assessment, not independently reviewed.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **Workspace-builder walk:** this is a compact version of discovery, stage mapping, scaffolding and validation. The plan file maps to the stage-mapping output; the read-every-file pass maps to validation, which stays a human step (gates are human).
 - **O4 workshop kit:** a good low-intimidation case study for attendees with no coding background.

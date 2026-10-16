@@ -37,7 +37,7 @@ Test: give the folder two unlike jobs back to back and watch the files each open
 - [2:02] Second session and sub-agents.
 - [2:30] Costs and the start-with-one rule.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **Boundary, never build an orchestrator:** the strongest statement of the repo rule in this course; reject any "one agent per module" design and let C1-C2 contracts plus a routing map do the work.
 - **C3 desk:** the model chooses and tools do split matches the desk: unattended sweeps are deterministic scripts or checks, the model only phrases the morning glance.

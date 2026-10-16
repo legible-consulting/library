@@ -13,6 +13,6 @@ Explains the community's gamified level ladder: members gain points when others 
 - **Rewards sit at the top:** free lifetime access to the paid Vault at level 8, a cash reward at level 9.
 - **Faster levelling** comes from thoughtful questions, shared progress and helping others.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - No design link. If O4 ever needs engagement mechanics for cohorts, this is a pattern to note, not adopt; the rebuild's readers are clients and attendees, not a points economy.

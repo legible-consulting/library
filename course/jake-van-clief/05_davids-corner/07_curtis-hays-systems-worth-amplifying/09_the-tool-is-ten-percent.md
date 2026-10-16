@@ -40,7 +40,7 @@ The argument, in order:
 - Leadership and problem framing cause more AI failures than technical limits — RAND study, 65 interviews; sample is practitioners, not a measured failure population.
 - The COO could not answer the stop question — single client anecdote; reading guide notes the ratio is a planning lens, not a universal allocation.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **S4 quote and S1 prospecting:** adopt the stop question as a qualifying question when a prospect asks for a tool. Put it in the client-research contract (S2) as a first-call prompt: what would break if this process disappeared? That helps Jamie enter the call knowing the trade.
 - **O1 tool research verdicts:** adopt the four questions as the checklist behind each adopt, watch or decline verdict, and record the answers with a recheck date. This keeps the tool as the replaceable ten percent and the written layers in the folder.

@@ -65,7 +65,7 @@ A live Zoom webinar that argues most failed AI projects chased features instead 
 - `jake-van-clief/01_the-foundation/02_build-it-around-your-work/01_start-with-outcome.md` — extends the four outcome questions with the jobs-to-be-done drill; both lean on Weinberg.
 - `jake-van-clief/05_davids-corner/07_curtis-hays-systems-worth-amplifying/09_the-tool-is-ten-percent.md` — partly contradicts: Curtis cautions against quoting the 95% figure as failure, which the video does.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **S2 / S3:** adopt the five failure modes as a discovery checklist in S2's industry primer and as problem-framing language in S3 proposals. One home: O1's concept library, referenced from both.
 - **O1 concept library and O4 kit:** adopt the five-primitive taxonomy and the library analogy as reusable explainers; the jobs-to-be-done drill is a ready workshop exercise.

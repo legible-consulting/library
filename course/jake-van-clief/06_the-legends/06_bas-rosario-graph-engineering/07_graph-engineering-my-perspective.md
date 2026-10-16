@@ -20,7 +20,7 @@ Bas gives his working view of rung five. He leads teams in his day job, so graph
 - A three-worker parallel video build (sourcing, quality gate, authoring) with an independent reviewer worked cleanly — personal anecdote.
 - Working life organised as nested scopes — self-reported.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **Folder tree is the orchestration, confirmed.** His nested-scope description (global, project, stage, each holding only its own world) is essentially the layered ICM structure Jamie already uses, and it supports one home per fact and every module starting cold.
 - **Adopt** "producer is never the judge" for gates: the session that drafts a proposal or quote (S3/S4) does not bless it; Jamie does.

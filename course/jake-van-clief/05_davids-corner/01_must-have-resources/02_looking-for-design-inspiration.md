@@ -20,7 +20,7 @@ David's curated shelf of design reference sites, framed as input to a concrete b
 - **getDesign** — contributed by Carl Gutierrez.
 - Full list not reproduced here; see the lesson page.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - Adapt for C1's document design system and S3 proposal branding: a "references" folder under C1 with three dated, sourced references per design decision, so the branded PDF rests on recorded choices.
 - Low priority otherwise; the list is generic and O1 would need to date any verdict on these sites.

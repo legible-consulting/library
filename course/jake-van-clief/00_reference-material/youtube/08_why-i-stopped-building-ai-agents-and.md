@@ -73,7 +73,7 @@ Jake opens a fresh, empty folder in the Cowork tab of the Claude desktop app and
 - `jake-van-clief/01_the-foundation/01_the-three-layers/04_pick-your-setup.md` — extends: shows the Cowork tab in use and why he still prefers an editor.
 - `jake-van-clief/01_the-foundation/02_build-it-around-your-work/01_start-with-outcome.md` — extends: his sixty-percent share (knowing what to post from performance data) is what he feeds the model here.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **C1 voice:** adopt the three-file split (tone and style, per-format guidance, constraints), each under about 100 lines, in the shared core's voice area; the constraints file is the one every client-facing module loads. Write the constraints by hand.
 - **O3 content:** adopt pillars-as-territory; attach real questions from workshop attendees, prospects and case studies to each pillar, kept in the O3 module folder rather than C1.

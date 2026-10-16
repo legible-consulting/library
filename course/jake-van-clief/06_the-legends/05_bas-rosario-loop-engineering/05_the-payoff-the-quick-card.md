@@ -16,7 +16,7 @@ The payoff post pulls the three classes together, observes that the model never 
 
 - **Loop Engineering Quick Card** — attached resource, a compact reference of the series. It covers five areas: how to build the four parts, how to end by shape, how to guard against runaway and drift, where to place the human, and a closing rule of rules about objective versus subjective signals. Use it as a pre-flight list when writing any revising prompt or stage contract; this note intentionally does not reproduce it.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **Adopt as a review aid, not copied text.** When scaffolding a stage, run the card's five areas as questions against the draft contract: has it named checks, an ending, guards, and a single human placement?
 - **Never build an orchestrator:** the payoff's "many loops, one desk" is exactly where Bas heads toward orchestration; the C3 desk should be the one desk where outputs land, with Jamie as the person placing gates, not a coordinating script.

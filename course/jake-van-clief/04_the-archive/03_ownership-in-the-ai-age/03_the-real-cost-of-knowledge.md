@@ -35,7 +35,7 @@ The guide's exercise: pick a harmless task, compare manual, local-model and clou
 - Data-centre and training figures — cited as footnoted, footnotes absent here — verify against the IEA analysis the guide links.
 - The water-filter example — illustrative only, not safe drinking-water advice (guide points to CDC guidance).
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **O1 tool and concept research:** adapt the guide's three-route comparison (manual, local, cloud, same acceptance criteria) as a template for dated tool verdicts that may involve a local-versus-hosted choice. Record unknowns honestly.
 - **S4 quote economics:** the point that model cost and where compute runs belong in an engagement's economics is a reminder to track hosting and model spend; the essay's numbers are not usable inputs.

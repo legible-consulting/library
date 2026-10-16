@@ -34,7 +34,7 @@ The learner watches the narrated preview as a viewer, notes the first moment the
 - [1:30] Test export, compare against preview, then full export.
 - [2:00] Keep the reviewed export and note; next is your own idea.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **D2 UAT analogue:** "watch the real artefact, not the preview" mirrors UAT sign-off on the real environment; adopt the principle that sign-off happens on the shipped form.
 - **O3:** the render stage contract should name the output files and the change note as artefacts; the human check is watching the full file.

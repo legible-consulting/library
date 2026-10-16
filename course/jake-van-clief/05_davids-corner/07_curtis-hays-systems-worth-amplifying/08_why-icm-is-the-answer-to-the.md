@@ -39,7 +39,7 @@ The argument, in order:
 - Folders, not prompts or models, resolved the author's friction — personal report.
 - Projects can only be entered whereas folders can be navigated and combined — the author's core framing; test it against your own tool before relying on it.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **C1 shared core and C2 client folder:** this is the cleanest statement of the "one home per fact" boundary: the shared core and each client folder live once, and modules combine them via declared Inputs instead of copying. Adopt as the standard explanation in teaching material.
 - **Boundary (never build an orchestrator):** Curtis's router named Duke is a named agent; in ICM the routing is the folder tree and stage contracts. Adapt the combining idea, reject a standing router agent.

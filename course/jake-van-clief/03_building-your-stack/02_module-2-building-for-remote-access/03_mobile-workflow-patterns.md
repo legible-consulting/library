@@ -19,7 +19,7 @@ A phone is good for small decisions, not big diffs or detailed visual review. Th
 
 Choose a task small enough to review on mobile, give it an explicit stop, review the list on the phone, then reconcile on return.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **C3 desk:** adopt check, decide, capture as the phone vocabulary for the morning glance and Friday review; a "decide" is how a salesman or Jamie answers a ready-for-Jamie flag without opening a repo.
 - **Boundary — gates are human:** a phone "decide" can tick a gate only when Jamie does it himself; the agent reads, never ticks.

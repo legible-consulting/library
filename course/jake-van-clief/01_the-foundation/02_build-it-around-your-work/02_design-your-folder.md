@@ -44,7 +44,7 @@ Turns the outcome from 2.1 into a workspace. Three real shapes are compared (sta
 - [3:06] ICM Architect; start small; test.
 - [4:09] Community anecdote and homework.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **Workspace-builder walk (scaffolding and validation):** this is the closest thing in the course to Jamie's own walk; adopt the jobs-reads-makes list for stage mapping and the new-session routing test for validation.
 - **Boundary, never build an orchestrator:** the model as the runner with folders as instructions and state restates the repo's rule; reuse that framing in O4 explainers.

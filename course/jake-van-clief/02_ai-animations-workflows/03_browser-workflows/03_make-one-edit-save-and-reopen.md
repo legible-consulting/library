@@ -36,7 +36,7 @@ Pilot sequence: before record, small job, edit, save, reopen, compare, report, t
 - [3:02] Admin versus member access; handling differences.
 - [4:03] Record the routine and move to a small batch.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **Boundary — CI is truth:** the "reopen and compare the saved result" rule is the browser-side analogue of reading results from CI rather than trusting the editor; adopt for any client site edit in D2.
 - **Boundary — gates are human:** keep the "stop if a control would delete separate material" instruction as a standing rule in browser-capable modules, with its why.

@@ -25,7 +25,7 @@ Read, preserve, change, save, reopen, compare, repeated on three named pages wit
 - **Claude in Chrome workflow recording** — optional, panel-specific; follow the official support guide.
 - **Workflow Audit Package (Premium)** — support materials.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **C3 desk / D4:** the one-row-per-item report with an explicit unknown state is a good shape for the quarterly estate audit and the Friday review; adopt the "unknown is never passed" rule.
 - **Boundary — never advance a stage or tick a gate:** a batch agent reports; a human decides.

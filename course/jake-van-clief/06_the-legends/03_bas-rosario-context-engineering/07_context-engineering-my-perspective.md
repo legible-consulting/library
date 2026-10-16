@@ -20,7 +20,7 @@ Bas describes how he uses rung two daily: every piece of model work begins with 
 - Verified beats confident, so exclude the model's memory — author's working practice — the application note says saved rooms do not guarantee source-only behaviour.
 - A week of pasted rejects gives a better room than a fresh prompt — author's projection — unverified.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **Adopt** the rule-with-its-failure habit; it matches the goals file's requirement that a rule carries its own why and date. Each house rule in C1 should name the failure that created it.
 - **Adopt** the "use only these sources, otherwise say so" first fence in module contracts that produce client-facing artefacts (S2, S3, S4), where invented facts would be costly.

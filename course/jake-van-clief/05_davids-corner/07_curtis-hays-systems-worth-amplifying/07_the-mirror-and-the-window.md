@@ -43,7 +43,7 @@ The argument, in order:
 - The author published his OS map publicly and sees independent convergence — self-reported, no examples cited.
 - Quotes from a poet-priest on quest stories are used as analogy, not evidence.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **S2 client research:** adopt the window test as a review check (a human tick, not automated) inside the prospect-profile contract. Every claim about the client's problem should cite the client's own words (call transcript, email, site copy) or be marked assumption. This directly serves "enters the first call knowing the client's trade".
 - **S3 proposal:** adapt as a review line that opening paragraphs describe the client's situation before Jamie's offer, in the client's language (goals: client-facing documents in the client's language).

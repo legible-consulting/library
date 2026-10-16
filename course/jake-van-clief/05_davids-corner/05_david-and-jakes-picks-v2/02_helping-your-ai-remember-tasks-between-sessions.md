@@ -12,7 +12,7 @@ A pointer to Millenial Cat's session-aware memory system (version 2.8 per the pa
 - **Saved file versus automatic memory:** distinct mechanisms; neither guarantees recall.
 - **Inspect what was actually read.**
 
-## Apply to icm-workshop
+## Apply to the house
 
 - Adapt for C2 and C3: each client folder already carries "where it stands, what is next, who is waiting"; the five fields are a candidate shape for a per-client state file, with the Friday review reading them. One home per fact: state lives there only.
 - Fits "every module starts cold": explicit supply beats automatic memory.

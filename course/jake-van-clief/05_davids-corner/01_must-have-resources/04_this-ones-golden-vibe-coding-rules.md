@@ -13,7 +13,7 @@ David points to a rules file Noah Taylor wrote for his own coding projects, atta
 - **Review before applying:** ask the assistant to flag conflicts with existing project instructions and propose a scoped version without editing.
 - **Credit and terms:** check the source's terms before redistributing.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - Adopt the "one rule, scoped, with a check" method for D4: a conformance report should confirm each tier template's rules are actually loaded, not just present as files.
 - Adapt for rule hygiene: the goals file requires every rule to carry its why and date, which this lesson's "record what success looks like" echoes.

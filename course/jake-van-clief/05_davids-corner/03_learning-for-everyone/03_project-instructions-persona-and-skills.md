@@ -13,7 +13,7 @@ A note on giving repeated instructions a durable home in readable files: a proje
 - **Prose is not enforcement:** keep important restrictions in permissions and executable checks too.
 - **Before/after test:** change one rule, rerun a harmless task, keep the diff, judge.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - Reinforces the layering in the global CLAUDE.md: Layer 0 identity and routing only, stage contracts for detail.
 - D4: conformance should verify each live repo carries only the Claude assets it uses, and flag agent-written edits to instruction files as reviewable drift.

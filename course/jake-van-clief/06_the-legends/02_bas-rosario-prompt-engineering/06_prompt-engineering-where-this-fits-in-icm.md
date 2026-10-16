@@ -31,7 +31,7 @@ Bas places rung one inside the Interpretable Context Methodology (ICM), the Jake
 
 - A non-technical reader can follow a contract file — quoted from the ICM conventions — plausible, authored by the method's own writers.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **Adopt** the Inputs, Process, Outputs shape for every module contract; it already matches the goals file's rule that a downstream module declares an upstream artefact as an Input and nothing else couples them.
 - **Adopt** the split of where things live: the Process text is module-owned, while shared voice and references are read from the shared core (C1), so each fact has one home. The example's `_config/voice.md` reference is exactly that pattern.

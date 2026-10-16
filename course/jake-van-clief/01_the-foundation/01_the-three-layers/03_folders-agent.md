@@ -48,7 +48,7 @@ Layer three moves the AI inside a folder of real work. After defining an agent a
 - [5:04] Naming rules, other folder types, ICM mention.
 - [6:08] The Engelbart mouse analogy and layer recap.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **C2 client folder:** the email folder is a small version of the client folder (records shaped, notes per client, drafts out); adopt "map plus per-record notes" as the check that a folder alone lets a cold session start.
 - **Boundary, never build an orchestrator:** Jake's routing table is the folder acting as orchestration, matching the repo's stage CONTEXT.md contracts; no scripts needed. Adopt.

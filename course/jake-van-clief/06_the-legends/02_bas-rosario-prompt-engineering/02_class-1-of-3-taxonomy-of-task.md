@@ -32,7 +32,7 @@ Bas argues that a prompt's shape is just the list of things the model needs from
 - Eight tags in the library cover all task kinds — taken from the library's own tagging — Bas's framing, not independently verified.
 - Learners underuse six of the eight types — a stated bet, no data.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **Adapt** the idea of "output kind decides shape" to module contracts: each module's artefact (proposal, quote, agreement, invoice) has a different definition of good, so its contract should state its own requirements, e.g. S4 Quote needs exact fields and structured values (the goals file asks for structured invoice facts for the dashboard), while S3 Proposal is writing in the client's language.
 - **Adopt** the five-asks audit as a calibration step during the workspace-builder discovery phase: list what Jamie actually asks the system to do and label each by type before drafting stage contracts.

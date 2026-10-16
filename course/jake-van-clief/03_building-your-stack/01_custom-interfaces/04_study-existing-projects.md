@@ -26,7 +26,7 @@ Links checked 26 September 2026 per the page:
 - **n8n, Langflow** — visual workflow structure.
 - **UI UX Pro Max** — a design skill, judged by effect on a real interface.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **O1 research:** use the five-line note as the dated verdict record, adding a recheck date; the listed projects are candidate entries.
 - **C3 desk / runs from anywhere:** CloudCLI's web and mobile reach is the most relevant for a phone and dashboard view; check its host/client boundary against the "never in git" rules.

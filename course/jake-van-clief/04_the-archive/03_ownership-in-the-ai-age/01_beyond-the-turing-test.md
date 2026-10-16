@@ -33,7 +33,7 @@ The argument as I read it:
 - Models show stable personality-like profiles and polish answers when tested — links his Ethics Engine paper (arXiv 2510.11742) — the guide says the paper measures answer patterns, not thinking.
 - Same mathematics as star distances implies deep unity — rhetorical, stated as belief — interpretive.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **O1 research verdicts:** adopt the guide's own exercise as a verification habit: same prompt to two models, record model name, date, prompt and output, separate observation from explanation. This fits dated tool verdicts with a recheck date.
 - **Every module starts cold:** the essay's premise (a tuned, remembered relationship with one AI) is the opposite of this boundary; cold-start design is the sane counterweight. Note it, do not adopt the premise.

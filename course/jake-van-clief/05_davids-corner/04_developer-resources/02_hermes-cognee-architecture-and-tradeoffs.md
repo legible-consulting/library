@@ -29,7 +29,7 @@ Captions carry one-minute markers only, so times are coarse.
 - [1:00] Context-size needs and chatting with the agent from messaging apps.
 - [1:00] Closing question: what would you teach an AI that evolves?
 
-## Apply to icm-workshop
+## Apply to the house
 
 - Mostly reject for now: "every module starts cold" and "one home per fact" prefer files over a memory service, and Hermes would add hosting to maintain. Record an O1 watch verdict with a recheck date.
 - Reuse the data-flow map and synthetic-note test as a D3 hosting-record template and D4 estate check.

@@ -67,7 +67,7 @@ Recorded as a members' afternoon-tea session, the video argues that a second bra
 - `jake-van-clief/05_davids-corner/03_learning-for-everyone/01_folders-obsidian-and-workflow-execution.md` — agrees: Obsidian as an optional viewer over plain files; this video shows a case (company map) where the graph earns its place.
 - `jake-van-clief/05_davids-corner/03_learning-for-everyone/08_stop-automating-your-frustration-audit-it-first.md` — complements: that skill scores impact and risk to choose automate, hybrid or manual; Jake's audit decides structure (folder, skill, script). Run both.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **C2 client folder and S2 research:** adopt derived over raw: raw call transcripts sit in a raw subfolder of the client folder, S2 produces the profile from them, and S3 onward declare the profile as Input, never the transcript. This is the goals' "artefact is the only handoff" rule applied to research.
 - **Workspace-builder walk (discovery) and O4:** adopt the self-audit questions as the discovery questionnaire for client ICM workspaces, with the input-process-output mapping deciding folder, skill or script.

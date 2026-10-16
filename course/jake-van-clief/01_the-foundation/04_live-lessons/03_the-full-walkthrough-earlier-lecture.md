@@ -55,7 +55,7 @@ The original full tour of the folder-as-workspace idea, previously lesson 3.1. J
 - [17:00] Naming conventions standing in for a database.
 - [20:00] Making it yours; the research paper and its five-layer version mentioned.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **Workspace-builder walk (stage mapping, scaffolding):** the map, rooms, tools split is the simplest explanation of what the scaffolding step produces; adopt as the teaching model for O4 and keep the paper's five layers as the formal reference.
 - **Every module starts cold / one home per fact:** the page's three-file pattern (entry file, project facts, references, with no competing second set of facts) matches Jamie's rule; adapt it to the C1 shared core, where project facts live once and each module's entry file only routes.

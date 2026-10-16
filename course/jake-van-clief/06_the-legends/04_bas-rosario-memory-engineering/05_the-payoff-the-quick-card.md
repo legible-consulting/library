@@ -22,7 +22,7 @@ The card has five parts: a keep-it filter (the four class-one questions with the
 
 - A memory built this way stays right next quarter because its failures become noticeable — the author's reasoning from a constructed example; untested.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **Adopt** the file-plus-drawer-plus-calendar pattern as the minimum viable C2: per-client status file read at start, per-module artefacts as the drawer, and the review date placed on the desk (C3's Friday review and monthly close), not in someone's head.
 - **Adopt** the final limit as a design boundary: gates are human, so memory correctness remains Jamie's check until a drift or deadline sweep (one of the unattended runs the goals allow) reports stale lines.

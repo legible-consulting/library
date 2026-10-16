@@ -22,7 +22,7 @@ Bas holds his graph rung up against the ICM paper (arXiv 2603.16021) and finds a
 
 - Graph, edge and convergence are absent from both the paper and conventions file — Bas says he searched — checkable, not verified here.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **Consistent with "never build an orchestrator."** The paper's sequential-by-design stance is the same line Jamie's repos draw; this lesson is the clearest statement of why parallel merging sits outside the pipeline. Where the tension appears is Bas's own graph rung, so reject graph-style fan-out as pipeline architecture, adopt it only as human-run design inside a single stage (for example parallel research sub-agents in S2, with Jamie reading the results).
 - **Related Foundation notes:** `01_the-foundation/03_automate-it-keep-your-judgment/01_stages-you-can-step-into.md` for gates on every edge, and `01_the-foundation/02_build-it-around-your-work/03_one-model-different-jobs.md` for stage-per-job.

@@ -28,7 +28,7 @@ Every arrow then gets one of three fixes: make it a sequence with an upstream st
 
 - A model fills dependency gaps confidently rather than waiting — reasoned from the earlier rooms series and illustrated with the launch example; no measurements.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **One home per fact, at fan-out scale (C1).** The upstream fact sheet is what the shared core is for. Any module that fans out to several documents (S3 proposal PDF, Google Doc and dashboard page; S4 invoices) should read price, terms and names from one place, never restate them.
 - **Cut by deliverable:** S3 produces one offer in three renderings. Apply the shared-fact test to those renderings; they are copies of one source, not three parallel authors.

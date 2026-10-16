@@ -19,7 +19,7 @@ Bas gives his practitioner view: refinement loops pointed at code pay him most b
 - A content-pipeline build passed all gates yet delivered confidently wrong output — personal anecdote, no details of the missing check.
 - Posts in this classroom go through automated gates and a rubric before publication — self-reported process.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **CI is truth:** Bas's failing test first is the same instinct as treating CI results as the sole verdict. Adopt it for D2: write acceptance checks (or CI tests) from the ticket before the build starts.
 - **Adapt with a conflict:** his loop reruns tests inside the cycle, whereas Jamie's rule forbids local checks unless asked. In this repo's terms the loop's evaluate step is a CI run read after push, which makes cycles slower and budgets (attempts) more valuable.

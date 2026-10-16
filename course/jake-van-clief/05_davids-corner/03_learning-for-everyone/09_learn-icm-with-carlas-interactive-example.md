@@ -16,7 +16,7 @@ A pointer to Carla Bosteder's interactive walkthrough in which a learner turns a
 
 - **Interactive example** hosted on claude.ai as a public artifact — not opened here.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - O4: a ready teaching aid for the workshop kit; adapt by building a version around a client's real process and scaffolded from a template. Check attribution and terms with Carla.
 - The cold-reader check is the same test as "a folder is enough to start a module cold" in the goals' failure criteria.

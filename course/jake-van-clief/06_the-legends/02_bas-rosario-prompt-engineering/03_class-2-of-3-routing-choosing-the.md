@@ -31,7 +31,7 @@ The worked examples (a job post, an invoice mismatch, a date-and-amount extracti
 
 - Putting strict types first is the right priority — argued from consequences of failure, not measured — reasoning only.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **Adopt** the principle directly as the design of module routing tables: a routing table in the folder map should be ordered so the most constrained job claims the request first, and a request that matches two modules should be split into two sequential stages with a human review between them (gates are human, never build an orchestrator).
 - **Adapt** the split-and-pass-forward rule to the S2 to S5 sell chain: research produces a profile, a separate stage produces the proposal, and only the profile is declared as the Input.

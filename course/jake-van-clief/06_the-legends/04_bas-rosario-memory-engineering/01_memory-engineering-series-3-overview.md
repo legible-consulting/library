@@ -26,7 +26,7 @@ Bas opens the third rung with the line that context is what the model sees this 
 - Most people stop at this rung because nothing prompts them to design persistence — Bas's observation — unverified.
 - Memory is the precondition for delegation and for the later loop and graph rungs — argued by reasoning.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **Adopt** the framing that memory engineering means choosing what survives: it is the design question behind C2, where each client folder keeps the relationship's facts for the whole life from prospect to after-handover. What belongs in the folder record and what is merely a session story needs an explicit rule.
 - **Adopt** "memory precondition for delegation" as a justification for C2 and C3: the desk's morning glance and Friday review only work if the folders hold current, trustworthy state.

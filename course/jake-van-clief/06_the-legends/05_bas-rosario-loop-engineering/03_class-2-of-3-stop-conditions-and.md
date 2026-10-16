@@ -24,7 +24,7 @@ Class 2 covers the third decide outcome, stop, and the fences that keep loops fr
 
 - Bas bets most people's budget is three and that they have never written one down — anecdotal guess in the closing comment prompt.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **Unattended runs:** the estate drift check, deadline sweep and research recheck are the only allowed unattended jobs. The research recheck (O1 dated verdicts with recheck date) is a divergent loop and should carry saturation plus a budget; the drift check is convergent. Write both rules in each job's own folder so it starts cold.
 - **Reject open-ended endings in any contract:** "until I am happy" is not an ending. Every stage that revises should state its attempt limit and the best-attempt handback.

@@ -27,7 +27,7 @@ The folder-by-language section applies one principle (group by domain, descripti
 
 - Generated code matches the author's style because of the training corpus — anecdote from the author, no comparison given.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **D2 SDLC and D4:** adapt per-tier template conventions: pick a small set (descriptive naming, small files, dead-code deletion, error transparency) and make them checkable in CI rather than prose. Reject copying his language-specific style tables; Jamie's tiers have their own stacks.
 - The file-header idea clashes with "one home per fact": status and to-dos in each file could drift from the plan files, so reject it or keep it for sandbox repos.

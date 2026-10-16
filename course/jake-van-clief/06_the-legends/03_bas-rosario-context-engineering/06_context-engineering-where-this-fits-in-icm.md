@@ -26,7 +26,7 @@ Bas maps context engineering onto ICM's Inputs table, using the problem of a 150
 - **ICM paper and conventions file** — arXiv 2603.16021 — source of the quoted conventions (the lesson says its quotes are verbatim).
 - Foundation counterparts: `01_the-foundation/01_the-three-layers/03_folders-agent.md` for the map file and routing table, and `01_the-foundation/02_build-it-around-your-work/02_design-your-folder.md` for separating method, facts, work and outputs.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **Adopt** section-level Inputs (file, section, why) as the format for every module contract's Inputs list. This directly serves the one-home-per-fact boundary: shared core files (C1) such as voice rules are referenced by section, never copied into a module.
 - **Adopt** the working-input versus reference split: a client's artefact from the previous module is a working input, while pricing, terms and voice from C1 are references, which keeps modules decoupled except through declared Inputs.

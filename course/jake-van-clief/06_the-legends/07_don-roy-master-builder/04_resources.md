@@ -11,7 +11,7 @@ Don lists two community practice resources. One is a custom tutor, built as a re
 - **ICM Foundations Tutor** — repo-based teaching assistant for the Foundations material — https://github.com/donroy26/Clief-Notes-Foundations-Tutor — community-built, not by Jake.
 - **ICMadness** — daily workflow-ordering puzzle on ICM fundamentals — https://donsbookshelf.com/icmadness/.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **O4:** ICMadness-style "restore the order of a shuffled workflow" is a ready-made exercise idea for the workshop kit; check the tutor repo only as a model of a cold-start teaching folder, and never run third-party repo code without reading it first.
 

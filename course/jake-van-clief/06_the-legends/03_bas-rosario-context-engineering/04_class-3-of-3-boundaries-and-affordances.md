@@ -32,7 +32,7 @@ The third class covers what the model is permitted to do and where it believes i
 
 - Four boundary lines make output more inspectable — demonstrated by a constructed comparison — no guarantee of compliance, as the lesson says itself.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **Adopt** the four lines as the checklist for each module's CONTEXT.md: Inputs name what may be read (and, where needed, what must not), the contract states the destination, and Outputs carry a done-when that Jamie can verify.
 - **Adopt** the mapping to goals boundaries: "never send to a client, never tick a gate" belongs in the written environment line, but enforcement should come from tool permission settings and gates staying as human checkboxes.

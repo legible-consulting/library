@@ -43,7 +43,7 @@ Layer one is plain chat, and the lesson uses it to teach three working ideas. Th
 - [5:10] The corrections as decisions; why layer one hurts.
 - [6:12] Agent preview and the homework.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **O4 workshop kit:** adopt the desk and every-word-is-a-question pair as the first explainer in the concept library; O1's concept library can hold it once and the kit reuse it.
 - **Boundary, every module starts cold:** the desk idea is the rationale; each module folder must supply on its own what a cold session would otherwise guess.

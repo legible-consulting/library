@@ -51,7 +51,7 @@ Jake argues that most "agents" people build are workaround plumbing: a database 
 - [33:01] Shannon and Hopper; the compiler as language-to-action.
 - [41:03] Close: folders as a standard for carrying intent into the newest abstraction layer.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **Never build an orchestrator / O4:** this is the clearest short argument for the boundary; adopt the "one agent, folder defines the role" framing as the opening for the workshop kit and the client-workspace scaffold.
 - **C1 shared core, one home per fact:** the separate "who I am" and "how I build" folders map to Jamie's identity, voice and house rules; adopt that split and keep each fact in one file that every module reads.

@@ -42,7 +42,7 @@ The page exercise adapts it: list one routine step an assistant could help with,
 - [21:01] Scribes and the printing press.
 - [25:31] If AI fails the board, human intervention matters; if it passes, the system is exposed.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **Workspace-builder walk (stage mapping):** adapt the "find the robotic parts, protect the human ones" sequence as a prompt in the stage-mapping questionnaire: for each candidate stage, which steps are mechanical and which are judgment.
 - **Gates are human:** the exercise's requirement to name the evidence needed before approving output is a direct template for gate checklists.

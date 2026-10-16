@@ -18,7 +18,7 @@ An overview of closing a loop between instructions, work, observed results and t
 - Extreme productivity multipliers in the source material — page says not to expect them — unverified.
 - One firm's scenario-testing without code review — vendor writeup — an approach, not evidence for dropping review.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **D2 SDLC pipeline:** the loop maps to ticket to release with a recorded correction step; live status and UAT sign-off are the observed-result half.
 - Boundary reminders: gates are human; CI is truth. Reject dropping human review as a model.

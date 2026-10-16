@@ -47,7 +47,7 @@ Don answers a member who spent about $350 in three weeks setting up ICM in Codex
 - [10:24] Summary list: turn off reload, accept limits, autopsy, short sessions, plan separately.
 - [11:22] Local models for bulk work, saving frontier usage for hard tasks.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **C3 tension 5 (cost to run each engagement):** session logs are one plausible source for model spend per engagement; billing dashboards are the authority. Record route, model, usage and task per engagement as structured facts, in line with the page's "trace one expensive day" record.
 - **Boundaries:** matches "never spend money" and "unattended runs are limited". No unattended job should run on a route with auto top-off; cap the account instead.

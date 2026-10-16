@@ -22,7 +22,7 @@ Bas maps his loop concepts onto the ICM paper (arXiv 2603.16021). The stage cont
 - The word "budget" appears in neither the paper nor the conventions file — Bas says he counted — checkable against the paper, not verified here.
 - Loop engineering sits at the output door of each stage rather than having its own folder — interpretive reading by Bas.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **Related Foundation notes:** `01_the-foundation/03_automate-it-keep-your-judgment/01_stages-you-can-step-into.md` (gates between stages) and `01_the-foundation/02_build-it-around-your-work/03_one-model-different-jobs.md` (stage-per-job). Read this lesson as the "what goes inside the gate" supplement to those.
 - **Adopt** the Audit and Checkpoint sections in each stage `CONTEXT.md` that has revisable output; the repo's own contracts remain authoritative, so confirm what the repo's conventions already offer before adding fields.

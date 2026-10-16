@@ -35,7 +35,7 @@ Page exercise: map one workflow into five steps, label each as rule, model or hu
 - Most AI transformations fail for lack of orchestration — assertion without data.
 - The calendar-integration story — anecdote, unnamed client.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **Workspace-builder walk (stage mapping):** adopt the rule / model / human label as a column when mapping each stage's steps. Deterministic steps become scripts or checks, model steps become the agent's work, human steps become gates. Home: stage-mapping questionnaire and each stage CONTEXT.md.
 - **Gates are human; never build an orchestrator:** this essay's "orchestration" is a design habit about allocation, not a driver program. Keep it that way: the folder tree and contracts are the orchestration, and the three-way labelling decides what a stage contract asks of the model versus a person or a plain check.

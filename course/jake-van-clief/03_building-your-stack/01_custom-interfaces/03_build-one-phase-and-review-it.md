@@ -45,7 +45,7 @@ Acceptance in the exercise: rows match their sources, open actions reach the rig
 - [10:35] Plan mode, subagents, shell commands.
 - [12:53] Selective file fetches from the references.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **C3 desk:** adopt the one-phase-at-a-time build with a progress file; the two-driver control surface describes the dashboard's folder-as-record relationship (tension 2 in the goals).
 - **Boundary — never build an orchestrator:** the workflow map visualises folders and contracts, it must not execute them; keep it a viewer.

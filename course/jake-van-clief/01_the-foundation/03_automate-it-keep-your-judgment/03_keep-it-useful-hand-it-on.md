@@ -33,7 +33,7 @@ Handover options: hand over a copy (zip or shared drive, good for templates) or 
 - [2:03] Handover and the AI-off test.
 - [3:03] The bet on folders; course recap and next routes.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **C1 shared core and boundary, one home per fact:** adopt directly; it is the stated rule. Use the fresh-session test as the cold-start check for every module ("every module starts cold").
 - **D4 estate conformance:** adopt archive-with-a-rule and the fresh-session question as two checks the conformance report runs on each repo; dormant repos get archived and secret-free.

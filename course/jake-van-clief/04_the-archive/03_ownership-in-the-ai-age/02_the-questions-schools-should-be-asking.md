@@ -33,7 +33,7 @@ The guide's practical version: inventory the notes, instructions, outputs and mo
 - A student-trained AI could be licensed — speculative proposal, no evidence of a working model.
 - Portable files do not transfer ownership of a provider's model — the guide's correction.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **O4 training:** the stated aim that "a client can leave with their own factory" is the same ownership principle in practice. Adopt the inventory exercise as a step when scaffolding a client ICM workspace: who supplies, who can access, how it exports. Home: workshop kit and the client workspace template.
 - **S5 agreement and C2 client folder:** adapt the inventory into a short ownership section in agreements, stating what the client owns (workspace files, outputs) versus what Jamie retains (templates, method) and what remains a provider's. Needs legal review; this essay is not a source for contract language.

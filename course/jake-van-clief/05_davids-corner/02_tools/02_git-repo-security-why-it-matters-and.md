@@ -33,7 +33,7 @@ For repos you maintain, the page lists applicable controls: a reporting policy, 
 - Custom 1-10 score and verdict bands — contributor design — not an official standard.
 - EPSS as a 30-day exploitation estimate — page's note — combine with exposure checks.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **D4 estate conformance:** adopt the "unknown is not a pass" rule and the report fields (commit, date, checks, unknowns) for the conformance report, and add a secret-free check for dormant repos, consistent with the boundary "never in git: credentials".
 - **O1 tool research:** use the read-only assessment as the evidence step before an adopt, watch or decline verdict on any third-party skill or repo, with a recheck date.

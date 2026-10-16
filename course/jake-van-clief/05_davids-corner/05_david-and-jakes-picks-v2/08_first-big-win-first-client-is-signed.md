@@ -12,7 +12,7 @@ Richard's story of a conversation becoming a scoped opportunity before the produ
 - **Smallest useful result** as the first offer.
 - **No unvalidated promises.**
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **S2 client research:** the five discovery fields make a ready template for the prospect profile Jamie takes into a first call.
 - **S3 proposal:** the smallest useful result lines up with a problem-approach-scope-timeline offer; and with the goals' note that only "straight to proposal" has landed work.

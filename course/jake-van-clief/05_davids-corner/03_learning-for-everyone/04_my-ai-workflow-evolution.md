@@ -17,7 +17,7 @@ A history of one contributor's layers while supporting nonprofit work: one-off p
 
 - Kiro, BMAD Method, Open Brain, ClaudeBot, ZeroClaw, Hermes, Cognee — named stops on the path; none vetted here.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - Supports "start with folders, add machinery only for a named gap": for a memory layer, the goals' boundary "every module starts cold" argues for files over a retrieval stack.
 - O1: a verdict record for Hermes or Cognee would need a dated adopt, watch or decline; this page alone is anecdote.

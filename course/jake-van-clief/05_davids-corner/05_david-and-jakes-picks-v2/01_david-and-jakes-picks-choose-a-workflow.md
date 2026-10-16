@@ -12,7 +12,7 @@ The module's index page. It groups eight member examples by the problem you have
 - **Reusable core:** the task structure, sources, saved work and checks, not the specific assistant.
 - **Own baseline:** a member's numbers do not transfer.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - Weak direct relevance as an index. Its grouping is a useful lens on the other eight notes in this module: session state, planning, outreach and client discovery are most relevant to C2, S1 and S2.
 - Reuse the "fictional data, copy of files" rule for O4 workshop exercises.

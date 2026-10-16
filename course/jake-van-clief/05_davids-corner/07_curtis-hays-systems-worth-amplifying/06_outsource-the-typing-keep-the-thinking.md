@@ -41,7 +41,7 @@ The argument, in order:
 - Commonplace practices were used by well-known figures — historical references, not checked.
 - Authors' own transcripts yielded his worldview more clearly than he could have written it cold — self-report.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **Goal D3 and O2 (handover, case studies):** capture calls and debriefs per client in the C2 client folder as raw transcripts, so each case study draws from recorded thinking. Adopt, provided consent and the "never in git: identity documents" rule are respected; client words may live in the private repo.
 - **S4 negotiation record:** the downside-protection example suggests the private negotiation record should log what the client's decisions reveal, not only offers and positions. Adapt as a short "pattern notes" section.

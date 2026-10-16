@@ -23,7 +23,7 @@ The five stages are voice, words, cues, scene, render. The ownership rule above 
 - **UI UX Pro Max skill** — optional interface-design reference, not required for animation.
 - **Premium Vault Workspace Blueprint and start page** — package selection and organisation.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **O3/D2 stage contract pattern:** the "owns the problem" rule is worth copying into each stage's CONTEXT.md as a short note on what an upstream change invalidates; adopt.
 - **O4:** good single-page handout for the workshop kit.

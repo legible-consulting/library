@@ -22,7 +22,7 @@ Five edge rules: write the edge line before the box; pass artifacts, not convers
 
 - The contract in ICM terms is the stage contract — author's own mapping; see the "fits in ICM" lesson for his checks against the paper.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **Strong match to the module-handoff boundary.** The goals say a module's artefact is the only handoff and a downstream module declares it as an Input and nothing else. That is Bas's "artifacts cross, history does not". Adopt his status-rides-with-artifact rule: every produced artefact (profile, proposal, quote) should carry draft/approved status and date so the next module does not treat a maybe as fact.
 - **Every module starts cold:** the "fresh worker" test is the same acceptance test. Run it on each module's Inputs list when scaffolding.

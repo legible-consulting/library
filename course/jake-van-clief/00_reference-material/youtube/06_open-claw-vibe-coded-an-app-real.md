@@ -63,7 +63,7 @@ Jake cuts together excerpts from a roughly three-and-a-half-hour code review his
 - `jake-van-clief/02_ai-animations-workflows/04_building-websites/03_pre-build-planning-and-prompt-sequencing.md` — extends: its "observed vs assumed" and capped-questions steps are the missing discipline that would have caught the auth ambiguity.
 - `jake-van-clief/05_davids-corner/02_tools/02_git-repo-security-why-it-matters-and.md` — extends: secret protection and reviewed changes listed there are the controls this build lacked.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **D4 estate conformance, secret-free:** adopt "scan history and setup trails, not just HEAD" as part of the secret-free check; a clean tree proves little if an agent session handled the key. Also matches the global rule to flag plaintext credentials.
 - **D2 SDLC, app and platform tiers:** adopt a security pass before release with three named checks from this video: use the platform's auth (no hand-rolled crypto), verify token issuer and audience, and inventory public routes and methods. Lives in the tier template.

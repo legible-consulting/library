@@ -52,7 +52,7 @@ Jake takes the viral personal-assistant project (called by an earlier name in th
 - [10:01] Counter-case: model-agnostic, self-hosted, open source.
 - [12:01] Verdict: useful for a specific audience, uncertain as a mainstream product.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **Never build an orchestrator:** this lesson is a good foil; the whole case for orchestration layers is what Jamie's boundary deliberately avoids. Reject building one, but adopt the four-part vocabulary (model, tools, routing, channels) to explain in O4 why folder contracts do the routing job.
 - **O1 tool research:** a clean candidate for a dated verdict (watch, with a recheck date) in the "could build for a client" catalogue as a personal-assistant offer; note the page's privacy caution before pitching self-hosting as data-safe.

@@ -28,7 +28,7 @@ A routing page for the Abstraction Series, the run of concept lessons (2.2 to 2.
 
 - No factual claims; the page includes its own hedges (historical names and counts, heuristic labels), which are worth carrying into any reuse of the later lessons.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **O1 concept library:** the question-to-lesson table is a pattern for indexing Jamie's own reusable explainers by the question a client asks; adopt the structure, not the content.
 - **O4 course material:** the three-line exercise (problem, context, "usable" test) is a cheap warm-up for the workshop kit; adapt it into the discovery step of the workspace-builder walk.

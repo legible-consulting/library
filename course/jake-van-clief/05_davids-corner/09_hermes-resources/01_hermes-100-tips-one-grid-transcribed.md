@@ -35,7 +35,7 @@ The page offers one reading method:
 - Numbers reflect publication order, not importance — argued from three patterns in the numbering; reasonable, unconfirmed by the author.
 - Each tip records a failure the author genuinely hit — poster's characterisation; not verifiable here.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **O1 tool research:** record Hermes as a dated watch verdict, consistent with the earlier Hermes and Cognee note. This page is a practitioner tip sheet, not an evaluation, so use it as evidence of operating burden (cost tuning, memory upkeep, backups) before any adopt decision.
 - **Every module starts cold, and unattended runs:** the "background work gets no chat history" theme supports the stage Inputs rule. Adopt as a check on the three sanctioned unattended sweeps: each prompt must name its own sources, folder and completion criteria.

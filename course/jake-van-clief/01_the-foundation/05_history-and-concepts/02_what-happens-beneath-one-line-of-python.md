@@ -53,7 +53,7 @@ Starting from a one-line "hello world" in Python, Jake descends through a stack 
 - [10:01] How engineering makes the unreliable reliable.
 - [11:00] Close: AI is the next layer, now in the "moths in relays" era.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - **O1 concept library and O4 workshop kit:** this is the reliability explainer; adopt the page version (with its corrections) as a concept entry, never the video's loose facts, so proposals and training cite checked material.
 - **Gates are human / CI is truth:** "architecture, structure, verification and human oversight at the right checkpoints" is a neat client-facing rationale for human gates and CI; adopt the wording idea for S3 proposals when explaining why a build has review points.

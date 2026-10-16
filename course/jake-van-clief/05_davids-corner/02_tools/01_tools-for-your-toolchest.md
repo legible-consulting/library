@@ -17,7 +17,7 @@ Roc Lee's find, republished here, points to two visual-design helpers. One is a 
 - **DESIGN.md Style Extractor** — Chrome extension producing a style file for use with Claude — Chrome Web Store listing and the bergside/design-md-chrome repository. Not vetted here.
 - **Anime.js** with its easing editor — animation library — animejs.com.
 
-## Apply to icm-workshop
+## Apply to the house
 
 - Adapt for C1's document design system: a DESIGN.md-style file is a plausible single home for design tokens. Before installing the extension, record a dated O1 verdict (adopt, watch or decline) with a recheck date.
 - Anime.js matters only if the dashboard (C3) gains motion; weak otherwise.
