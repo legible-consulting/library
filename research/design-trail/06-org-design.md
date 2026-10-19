@@ -85,7 +85,7 @@ runbook check closes it.
 | Claude GitHub App | installed on the org, **all repositories** | yes | org Settings → GitHub Apps shows Claude · a cloud session attaches a transferred repo | One install covers every repo created later; whether it covers repos **transferred in** is expected but unverified until the first transfer (§10 item 9). |
 | `.github` repo | public; `profile/README.md` is the agency's front page; `SECURITY.md` (how to report a leak) and `CONTRIBUTING.md` (points at the onboarding note, §6) as default community files | yes (profile README documented for all plans) | github.com/legible-consulting shows it | The org page is the first thing a collaborator or client sees after an invite; today it says "Hello". |
 | `workflows` repo | **public**, new; holds the reusable workflows every client repo calls (§4); tagged `v1`, `v1.x` independently of the method repo | yes | a public client repo's CI run using `legible-consulting/workflows/.github/workflows/check-client.yml@v1` is green | Reusable workflow YAML carries no secrets (callers pass them). Public removes the unverified private-to-public call and the Access setting altogether. Separate from the method repo because copier update compares **template tags**: a workflow fix inside the template would open a spurious update PR on every client. Separate from `.github` so the front page stays a front page. |
-| Rulesets | public repos: ruleset on the default branch, no bypass actors (§4). Private repos: **none possible** | verified today (403 on the private repo) | `gh ruleset list` per public repo | On Free the hard stop exists only where the repo is public. Private repos are gated by the `CLAUDE.md` boundary plus a `guard-main` check that fails and pings. |
+| Rulesets | public repos: ruleset on the default branch, no bypass actors (§4). Private repos: **none possible** | verified today (403 on the private repo) | `gh ruleset list` per public repo | On Free the hard stop exists only where the repo is public. Private repos are gated by the `CLAUDE.md` boundary. |
 | Secrets | per repo (`gh secret set --repo`), never org-level | verified (docs: org secrets and variables are not accessible to private repos on Free) | `gh secret list --repo` | One home per secret per repo; the manifest names which repo needs which secret name. |
 | Secret scanning · push protection | public repos: on by default, free. Private repos: not purchasable on Free (Secret Protection needs Team, $19 per active committer) | verified (docs) | berceo Settings → Code security shows push protection enabled | gitleaks in pre-commit and in every check workflow is the private-repo guard. |
 | Dependabot | alerts on all plans; version updates via `dependabot.yml` per tier | yes | first alert or PR appears | Zero infrastructure; one file rendered by the template. |
@@ -130,9 +130,6 @@ minutes):
 | `research-recheck.yml` | `schedule` weekly | lists verdicts whose `recheck` date has passed → glance lines | O1 recheck without a model. |
 | `dashboard.yml` | push to `main`, `schedule` every 6 h | Astro build of the desk from `clients/` and the GitHub REST API (`DASHBOARD_PAT`) → `vercel deploy --prebuilt --prod` | The dashboard reads the folders where they live; token deploys carry no author check; status is stamped with build time. |
 
-No `guard-main` on the operating repo (why: the boundaries allow a session to commit words
-straight to `main`; the gated acts are merge and release of **client code** · 2026-10-15).
-
 **Workflows in the `workflows` repo** (reusable; called by every client repo's rendered
 `ci.yml` as `legible-consulting/workflows/.github/workflows/<file>@v1`):
 
@@ -141,7 +138,6 @@ straight to `main`; the gated acts are merge and release of **client code** · 2
 | `check-client.yml` | per-tier lint, typecheck, test, gitleaks, actionlint; inputs: `tier` | none |
 | `deploy-vercel.yml` | `vercel pull --environment=preview|production`, `vercel build`, `vercel deploy --prebuilt`; preview on PR (the UAT environment D2 promises), production on the release merge | `VERCEL_TOKEN` (secret), `VERCEL_ORG_ID`, `VERCEL_PROJECT_ID` (variables) |
 | `release.yml` | release-please: opens the release PR; merging it is the release | `GITHUB_TOKEN` with PR permission |
-| `guard-main.yml` | on `push` to `main`: fails when the commit is not a PR merge | none |
 
 Private client repos carry `"git": {"deploymentEnabled": false}` in `vercel.json` and deploy
 only through `deploy-vercel.yml` (why: Vercel's Git integration deploys a private repo's
@@ -197,7 +193,7 @@ Rules (why in each line · 2026-10-15):
    folder holds negotiation positions and contact details.
 5. **Their work reaches the folder by status, not by write.** Branch → PR → `check-client`
    green → preview URL from `deploy-vercel` in the PR → Jamie reviews and merges (the human
-   gate; enforced by the ruleset on public repos, caught by `guard-main` on private ones) →
+   gate; enforced by the ruleset on public repos) →
    the dashboard build reads the repo's latest run, PRs and release by API → Jamie's Friday
    review updates the folder's status line. Why: one direction per fact; a collaborator
    commit never lands in the operating repo.
