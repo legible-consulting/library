@@ -169,15 +169,15 @@ Commands per folder are in `~/Desktop/legible-consulting/README.md`.
 
 ### G · Wave 1 proofs (the infrastructure is done when)
 
-- [ ] **G1** C2 repeated on a file under `clients/` with `check` green.
-- [ ] **G2** `blueprint` tagged `v0.1.0`; a `site` tier rendered from the local lane into an
+- [X] **G1** C2 repeated on a file under `clients/` with `check` green.
+- [X] **G2** `blueprint` tagged `v0.1.0`; a `site` tier rendered from the local lane into an
   empty org repo created in the UI; its `ci.yml` calls
   `legible-consulting/.github/.github/workflows/check-client.yml@main` and runs green.
-- [ ] **G3** A conformance run from the local lane opens one PR on berceo and writes
+- [X] **G3** A conformance run from the local lane opens one PR on berceo and writes
   `desk/estate/drift-<date>.md`.
-- [ ] **G4** The dashboard builds from `clients/` in Actions and deploys; the page shows four
+- [X] **G4** The dashboard builds from `clients/` in Actions and deploys; the page shows four
   clients with a build timestamp.
-- [ ] **G5** `meta/` moves to `library/research/design-trail/` once every contract
+- [X] **G5** `meta/` moves to `library/research/design-trail/` once every contract
   carries its own whys; `CLAUDE.md`'s last routing row is deleted in the same PR.
 
 ### H · After this runbook: audit the global Claude layer
