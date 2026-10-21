@@ -111,7 +111,7 @@ Commands per folder are in `~/Desktop/legible-consulting/README.md`.
 - [X] **B7** PAT policy: fine-grained allowed, classic restricted (runbook 1.9, UI).
 - [X] **B8** Install the Claude GitHub App on the org, **all repositories** (runbook 1.10).
   Check: `gh api orgs/legible-consulting/installations` shows a line ending in `all`.
-- [ ] **B9** Require 2FA **after** `GPardas` confirms it is on (runbook 1.1, 1.3).
+- [X] **B9** Require 2FA **after** `GPardas` confirms it is on (runbook 1.1, 1.3).
 - [X] **B10** Ruleset on `main` of `.github` and `blueprint`, no bypass actors (runbook 5.6
   body). Check: `gh ruleset list --repo …` shows `main` on both.
 
@@ -185,15 +185,15 @@ Commands per folder are in `~/Desktop/legible-consulting/README.md`.
 Starts once A–G are done (Jamie, 2026-10-16). The global `~/.claude/` predates the
 `legible-consulting` org and the house words; bring it in tune with them.
 
-- [ ] **H1** Audit `~/.claude/CLAUDE.md`: the ICM wording against `core/lexicon.md`; the
+- [X] **H1** Audit `~/.claude/CLAUDE.md`: the ICM wording against `core/lexicon.md`; the
   "one global hook" line against the four hooks `core/stack.md` lists; what belongs
   globally versus in `house`.
-- [ ] **H2** Audit the four global hooks (`icm-session-start`, `block-local-checks`,
+- [X] **H2** Audit the four global hooks (`icm-session-start`, `block-local-checks`,
   `confirm-git-writes`, `guard-plaintext-secrets`): keep, change, or move into the repos
   so cloud sessions get them too.
-- [ ] **H3** Audit `~/.claude/settings.json`: permissions, permission mode, plugins, MCP
+- [X] **H3** Audit `~/.claude/settings.json`: permissions, permission mode, plugins, MCP
   servers and connectors this machine loads.
-- [ ] **H4** Record the outcome in `core/stack.md` ("Local machine"). Check: `stack.md` and
+- [X] **H4** Record the outcome in `core/stack.md` ("Local machine"). Check: `stack.md` and
   `~/.claude/` describe the same hooks, permissions and tools.
 
 ## 4. What this changes against 06-org-design.md, and why
