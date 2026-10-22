@@ -4,8 +4,7 @@ kind: goals
 status: draft
 owner: jamie
 date: 2026-10-14
-supersedes: 00-goal-questions.md
-source: 00-goal-interview-answers.md (14 rounds, 2026-10-14)
+source: the goal interview of 2026-10-14 (14 rounds)
 ---
 
 # Goals — what the rebuilt system produces
