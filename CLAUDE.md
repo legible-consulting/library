@@ -1,7 +1,6 @@
 # library — read-only
 
-This repository is reference material: a third-party course, the ICM paper and research
-ledgers. Rules:
+This repository is reference material: a third-party course and the ICM paper. Rules:
 
 - Read only the paths the contract that attached you names. Cite the path you read.
 - Never edit, move or delete anything here. Write what you learn into the house
